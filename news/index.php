@@ -4,14 +4,14 @@
   crossorigin="anonymous"></script>
 
 <nav>
-	<ul >
-		<li><a id = "link1" href="file.php?cat=politics">Քաղաքականություն</a></li>
-		<li><a id = "link2" href="">Իրավունք</a></li>
-		<li><a id = "link3" href="">Տնտեսություն</a></li>
-		<li><a id = "link4" href="">Սպորտ</a></li>
-		<li><a id = "link5" href="">Մամուլի տեսություն</a></li>
-		<li><a id = "link6" href="">Իրադարձային</a></li>
-		<li><a id = "link7" href="">Life</a>	</li>
+	<ul>
+		<li><a id = "link1" href="file.php?cut=politics">Քաղաքականություն</a></li>
+		<li><a id = "link2" href="file.php?cut=law">Իրավունք</a></li>
+		<li><a id = "link3" href="file.php?cut=business">Տնտեսություն</a></li>
+		<li><a id = "link4" href="file.php?cut=Sports">Սպորտ</a></li>
+		<li><a id = "link5" href="file.php?cut=press-digest">Մամուլի տեսություն</a></li>
+		<li><a id = "link6" href="file.php?cut=event">Իրադարձային</a></li>
+		<li><a id = "link7" href="file.php?cut=culture">Մշակույթ</a></li>
 	</ul>
 </nav>
 
@@ -31,7 +31,7 @@
         type: 'post',
         data: {},
         success: function() {
-
+        	
         }
       });
 

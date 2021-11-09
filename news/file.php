@@ -1,6 +1,6 @@
 <?php 
-	$cat = $_GET['cat'];
-	$str = file_get_contents("https://www.tert.am/am/news/$cat");
+	$cut = $_GET['cut'];
+	$str = file_get_contents("https://www.tert.am/am/news/$cut");
 	// file_put_contents("data.php", $str);
 	// echo $str;
 
