@@ -1,5 +1,6 @@
 <?php 
-	$cut = $_GET['cut'];
+	// $cut = $_GET['cut'];
+	$cut = $_POST['cut'];
 	$str = file_get_contents("https://www.tert.am/am/news/$cut");
 	// file_put_contents("data.php", $str);
 	// echo $str;
@@ -10,7 +11,7 @@
 	
 	// print_r($matches);
 	for ($i=0; $i < count($matches[0]); $i++) { 
-		// code...
+		
 	
 	$url = "https://www.tert.am".$matches[0][$i];
 	// echo $url;

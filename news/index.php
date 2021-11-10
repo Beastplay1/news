@@ -3,7 +3,7 @@
   integrity="sha256-/xUj+3OJU5yExlq6GSYGSHk7tPXikynS7ogEvDej/m4="
   crossorigin="anonymous"></script>
 
-<nav>
+<!-- <nav>
 	<ul>
 		<li><a id = "link1" href="file.php?cut=politics">Քաղաքականություն</a></li>
 		<li><a id = "link2" href="file.php?cut=law">Իրավունք</a></li>
@@ -13,7 +13,13 @@
 		<li><a id = "link6" href="file.php?cut=event">Իրադարձային</a></li>
 		<li><a id = "link7" href="file.php?cut=culture">Մշակույթ</a></li>
 	</ul>
-</nav>
+</nav> -->
+
+<form action="file.php">
+	<input type="submit" value="Քաղաքականություն" id="link1"> 
+	<input type="submit" value="Իրավունք" id="link2"> 
+
+</form>
 
 <script>
 	$(function() {
@@ -31,7 +37,9 @@
         type: 'post',
         data: {},
         success: function() {
-        	
+        	link1.window.location = "file.php?cut=politics";
+        	link2.window.location = "file.php?cut=law";
+
         }
       });
 
