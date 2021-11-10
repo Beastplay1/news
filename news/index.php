@@ -15,30 +15,46 @@
 	</ul>
 </nav> -->
 
-<form action="file.php">
-	<input type="submit" value="Քաղաքականություն" id="link1"> 
-	<input type="submit" value="Իրավունք" id="link2"> 
-
+<!-- <form action="file.php" method="post">
+	<input type="submit" name="politics" value="Քաղաքականություն" id="link1"> 
+	<input type="submit" name="law" value="Իրավունք" id="link2"> 
+	<input type="submit" name="business" value="Տնտեսություն" id="link3"> 
+	<input type="submit" name="Sports" value="Սպորտ" id="link4"> 
+	<input type="submit" name="press-digest" value="Մամուլի տեսություն" id="link5"> 
+	<input type="submit" name="event" value="Իրադարձային" id="link6"> 
+	<input type="submit" name="culture" value="Մշակույթ" id="link7"> 
 </form>
+ -->
+<?php 
+// session_start();
+// echo $_SESSION['res'];
+ ?>
 
+ <nav>
+	<ul>
+		<li id = "politics" >Քաղաքականություն</li>
+		<li id = "law" >Իրավունք</li>
+		<li id = "business" >Տնտեսություն</li>
+		<li id = "Sports">Սպորտ</li>
+		<li id = "press-digest" >Մամուլի տեսություն</li>
+		<li id = "event">Իրադարձային</li>
+		<li id = "culture" >Մշակույթ</li>
+	</ul>
+</nav>
+<div id="res">
+	
+</div>
 <script>
 	$(function() {
-    $('a').click(function(){
-    	let link1 = $('#link1').val();
-    	let link2 = $('#link2').val();
-    	let link3 = $('#link3').val();
-    	let link4 = $('#link4').val();
-    	let link5 = $('#link5').val();
-    	let link6 = $('#link6').val();
-    	let link7 = $('#link7').val();
-      	
+    $('li').click(function(){
+
+      let cut = $(this).attr("id");
       $.ajax({
         url:'file.php',
         type: 'post',
-        data: {},
-        success: function() {
-        	link1.window.location = "file.php?cut=politics";
-        	link2.window.location = "file.php?cut=law";
+        data: {cut},
+        success: function(data) {
+        	$('#res').html(data);
 
         }
       });

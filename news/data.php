@@ -18,13 +18,10 @@
 <html lang="hy">
 <head>
 <meta charset="utf-8" />
-<title>Սննդային թունավորման կասկածով հիվանդանոց է տեղափոխվել մանկական զարգացման կենտրոնի 10 երեխա - Լուրեր Հայաստանից - Թերթ.am</title> <meta name="description" content="ՀՀ առողջապահության նախարարության «Հիվանդությունների վերահսկման և կանխարգելման ազգային կենտրոն» ՊՈԱԿ-ից ստացված տեղեկատվության համաձայն․․․
-
-" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" /><meta name="format-detection" content="telephone=no" /><meta name="verify-v1" content="mHoLeS3TZl4elTN2r1n7inkYgo/pHnCcJI7LdCBOZu4=" /><meta name="keywords" content="Հայաստանի նորություններ, վերջին նորություններ Հայաստանից, Հայկական նորություններ, Հայաստանի Հանրապետություն, Հայաստան, հայկական, հայերեն, հայեր, նորություններ, Արցախ, Ղարաբաղ, Լեռնային Ղարաբաղ, Երևան, Կովկաս, Անդրկովկաս, Ադրբեջան, Բաքու, Վրաստան, Թբիլիսի, իշխանություն, ընդդիմություն, հայերի ցեղասպանություն, սփյուռք, անդրկովկասյան, հայկական սփյուռք, հայկական համայնք, Թուրքիա, հայ-ամերիկյան, ամերիկա-հայկական, նախագահ, Եվրոպա" /> <meta property="og:title" content="Սննդային թունավորման կասկածով հիվանդանոց է տեղափոխվել մանկական զարգացման կենտրոնի 10 երեխա" /><meta property="og:description" content="ՀՀ առողջապահության նախարարության «Հիվանդությունների վերահսկման և կանխարգելման ազգային կենտրոն» ՊՈԱԿ-ից ստացված տեղեկատվության համաձայն․․․
-
-" /><meta property="og:image" content="/news_images/1242/3724023_1/f618b799017346_618b799017389.thumb.jpg" /><meta property="og:type" content="website" /> <meta property="twitter:title" content="Սննդային թունավորման կասկածով հիվանդանոց է տեղափոխվել մանկական զարգացման կենտրոնի 10 երեխա" /><meta property="twitter:description" content="ՀՀ առողջապահության նախարարության «Հիվանդությունների վերահսկման և կանխարգելման ազգային կենտրոն» ՊՈԱԿ-ից ստացված տեղեկատվության համաձայն․․․
-
-" /><meta property="twitter:image" content="https://www.tert.am/news_images/1242/3724023_1/f618b799017346_618b799017389.thumb.jpg" /><meta property="twitter:card" content="summary_large_image" /><meta property="twitter:site" content="@tert" /><meta property="twitter:url" content="https://www.tert.am" /><meta property="twitter:image:width" content="640" /><meta property="twitter:image:height" content="360" /> <meta property="twitter:image:width" content="640" />
+<title>Գերմանիայում պայթյուն է որոտացել զինամթերքի պահեստարանի մերձակայքում - Լուրեր Հայաստանից - Թերթ.am</title> <meta name="description" content="«Նոյեմբերի 10-ի վաղ առավոտյան, մոտավորապես ժամը 2-ին, պայթյուն է տեղի ունեցել Ունտեռլյուսում (կոմունա) գտնվող Rheinmetall-ի տարածքում տեղակայված զինամթերքի պահեստարանի շրջանում»,-ասվում է գերմանական Ցելլե քաղաքի իրավապահների հայտարարության մեջ:
+" /><meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=yes" /><meta name="format-detection" content="telephone=no" /><meta name="verify-v1" content="mHoLeS3TZl4elTN2r1n7inkYgo/pHnCcJI7LdCBOZu4=" /><meta name="keywords" content="Հայաստանի նորություններ, վերջին նորություններ Հայաստանից, Հայկական նորություններ, Հայաստանի Հանրապետություն, Հայաստան, հայկական, հայերեն, հայեր, նորություններ, Արցախ, Ղարաբաղ, Լեռնային Ղարաբաղ, Երևան, Կովկաս, Անդրկովկաս, Ադրբեջան, Բաքու, Վրաստան, Թբիլիսի, իշխանություն, ընդդիմություն, հայերի ցեղասպանություն, սփյուռք, անդրկովկասյան, հայկական սփյուռք, հայկական համայնք, Թուրքիա, հայ-ամերիկյան, ամերիկա-հայկական, նախագահ, Եվրոպա" /> <meta property="og:title" content="Գերմանիայում պայթյուն է որոտացել զինամթերքի պահեստարանի մերձակայքում" /><meta property="og:description" content="«Նոյեմբերի 10-ի վաղ առավոտյան, մոտավորապես ժամը 2-ին, պայթյուն է տեղի ունեցել Ունտեռլյուսում (կոմունա) գտնվող Rheinmetall-ի տարածքում տեղակայված զինամթերքի պահեստարանի շրջանում»,-ասվում է գերմանական Ցելլե քաղաքի իրավապահների հայտարարության մեջ:
+" /><meta property="og:image" content="/news_images/1242/3724239_1/a_imago_20211104_084700_6.thumb.jpg" /><meta property="og:type" content="website" /> <meta property="twitter:title" content="Գերմանիայում պայթյուն է որոտացել զինամթերքի պահեստարանի մերձակայքում" /><meta property="twitter:description" content="«Նոյեմբերի 10-ի վաղ առավոտյան, մոտավորապես ժամը 2-ին, պայթյուն է տեղի ունեցել Ունտեռլյուսում (կոմունա) գտնվող Rheinmetall-ի տարածքում տեղակայված զինամթերքի պահեստարանի շրջանում»,-ասվում է գերմանական Ցելլե քաղաքի իրավապահների հայտարարության մեջ:
+" /><meta property="twitter:image" content="https://www.tert.am/news_images/1242/3724239_1/a_imago_20211104_084700_6.thumb.jpg" /><meta property="twitter:card" content="summary_large_image" /><meta property="twitter:site" content="@tert" /><meta property="twitter:url" content="https://www.tert.am" /><meta property="twitter:image:width" content="640" /><meta property="twitter:image:height" content="360" /> <meta property="twitter:image:width" content="640" />
 <meta property="twitter:image:height" content="360" />
 <link rel="icon" href="/favicon.png?v=1" />
 <link rel="shortcut icon" href="/favicon.ico?v=1" />
@@ -219,7 +216,7 @@
 </li>
 <li class="menu__item menu__item--none-hidden table-cell">
 <a href="http://life.tert.am/am" class="menu__link db fb fs15 ">Life</a>
-</li>
+ </li>
 <li class="menu__item table-cell">
 <div id="burger" class="ver-top-box select-none pr">
 <div class="lines line-1"></div>
@@ -229,7 +226,7 @@
 <div class="menu__second-box dn">
 <div class="menu__second-box-inner tl"><ul class="menu__second-list ver-top-box pr">
 <li class="menu__second-item">
-<a href="http://life.tert.am/am" class="menu__second-link ver-top-box fb fs15 pr "><span class="menu__second-circle db" style="background-color: #DF5C77;"></span>Life  </a>
+<a href="http://life.tert.am/am" class="menu__second-link ver-top-box fb fs15 pr "><span class="menu__second-circle db" style="background-color: #DF5C77;"></span>Life </a>
 </li>
 </ul><ul class="menu__second-list ver-top-box pr"><li class="menu__second-item">
 <a href="/am/news/politics" data-category-alias="politics" data-category-color="#1567a9" class="menu__second-link ver-top-box fb fs15 pr">
@@ -276,13 +273,13 @@
 <div class="center center--1230">
 <div class="inner-content clear-fix">
 <div class="inner-content__left inner-content__left--770 fl">
-<h1 class="inner-content__article-title fb fs20">Սննդային թունավորման կասկածով հիվանդանոց է տեղափոխվել մանկական զարգացման կենտրոնի 10 երեխա</h1>
-<div class="inner-content__article-date fb fs12">11:49 &bull; 10.11.21</div>
+<h1 class="inner-content__article-title fb fs20">Գերմանիայում պայթյուն է որոտացել զինամթերքի պահեստարանի մերձակայքում</h1>
+<div class="inner-content__article-date fb fs12">16:11 &bull; 10.11.21</div>
 <div class="list">
 <div class="list__item">
 <div class="list__inner-box list__inner-box--with-top-line db pr" style="border-top-color: #18adce">
 <div class="list__img-box">
-<img src="/news_images/1242/3724023_1/f618b799017346_618b799017389.thumb.jpg" alt="" />
+<img src="/news_images/1242/3724239_1/a_imago_20211104_084700_6.thumb.jpg" alt="" />
 </div>
 <a class="list__category list__category--big fb fs15 ver-top-box tu" href="/am/news/event" style="background-color: #18adce;">
 Իրադարձային </a>
@@ -302,10 +299,7 @@
                     });
                 </script>
 <div id="news-content-container">
-<p>ՀՀ առողջապահության նախարարության &laquo;Հիվանդությունների վերահսկման և կանխարգելման ազգային կենտրոն&raquo; ՊՈԱԿ-ից ստացված տեղեկատվության համաձայն՝ երեկ երեկոյան սննդային թունավորման կասկածով &laquo;Մուրացան&raquo; համալսարանական հիվանդանոց է տեղափոխվել 8 երեխա, իսկ Ինֆեկցիոն ազգային կենտրոն՝&nbsp;2 երեխա: Երեխաները &laquo;Էլկա&raquo; մանկական զարգացման կենտրոնի սաներ են՝ 8-11 տարեկան: Այս մասին հայտնում են ՍԱՏՄ-ից։</p>
-<p>ՀՀ սննդամթերքի անվտանգության տեսչական մարմնի տեսուչները դեռ երեկ երեկոյան, արագ արձագանքելով ահազանգին, վերահսկողական միջոցառումներ են սկսել &laquo;Էլկա&raquo; մանկական զարգացման կենտրոնում:</p>
-<p>Վերցվել են նմուշներ առկա պատրաստի արտադրատեսակներից և հումքից, սննդամթերքի հետ շփվող մակերեսներից և գույքից՝ ներկայացնելով դրանք լաբորատոր փորձաքննության, ուսումնասիրվել է հանրային սննդի կետերի սանիտարահիգիենիկ վիճակը:</p>
-<p>Վերահսկողության ընթացքի և լաբորատոր փորձաքննության արդյունքների մասին կտեղեկացնենք լրացուցիչ:&nbsp;</p> </div>
+<p>Նոյեմբերի 10-ին պայթյուն&nbsp;է տեղի ունեցել զինամթերքի պահեստարանի շրջանում, որը գտնվում&nbsp;է Գերմանիայի Ստորին Սաքսոնիայի երկրամասի Rheinmetall պաշտպանական կոնցեռնի տարածքում. տարածքը շրջափակված է:<br /><br />Այդ մասին, ինչպես տեղեկացնում&nbsp;է &laquo;Արմենպրես&raquo;-ը, ասվում Է տեղի ոստիկանության հայտարարության մեջ: <br /><br />&laquo;Նոյեմբերի 10-ի վաղ առավոտյան, մոտավորապես ժամը 2-ին, պայթյուն&nbsp;է տեղի ունեցել Ունտեռլյուսում (կոմունա) գտնվող Rheinmetall-ի տարածքում տեղակայված զինամթերքի պահեստարանի շրջանում&raquo;,-ասվում&nbsp;է գերմանական Ցելլե քաղաքի իրավապահների հայտարարության մեջ:<br /><br />Նշվում է, որ, ըստ առկա տվյալների, վնաս&nbsp;է հասցվել շենքին, տուժածներ չկան: Տարածքը, որտեղ տեղի&nbsp;է ունեցել պայթյունը, օղակված է, դեպքի վայր են ժամանել հրշեջները: Կատարվում&nbsp;է միջադեպի հետաքննություն:</p> </div>
 <div class="inner-content__soc-box pr">
 <div class="addthis_toolbox addthis_32x32_style">
 <a class="addthis_button_facebook"></a>
@@ -317,7 +311,7 @@
 </div>
 </div>
 </div>
-<script type="text/javascript">  var st13 = function() { var sStr = unescape("%3Cscript src='/am/news/st?id=3724023' type='text/javascript'%3E%3C/script%3E"); $('head').append( sStr ); }; setTimeout( st13, 2000 );  </script>
+<script type="text/javascript">  var st13 = function() { var sStr = unescape("%3Cscript src='/am/news/st?id=3724239' type='text/javascript'%3E%3C/script%3E"); $('head').append( sStr ); }; setTimeout( st13, 2000 );  </script>
 <input type="hidden" id="menu-alias" value="29" />
 <div class="inner-content__right in_print_hide">
 <div id="adfox_161788025683669076"></div>
@@ -337,17 +331,17 @@
 <ul class="list list--with-scroll scroller-block show-link-visited">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a href="/am/news/2021/11/10/statedep/3724205" class="list__link db fb">
-<span class="list__date db fb fs14">15:20 &bull; 10/11</span>
-<span class="list__title db">ԱՄՆ Պետդեպը Վրաստանի իշխանություններին կոչ է արել Սաակաշվիլիի հետ վարվել «արդար և արժանապատիվ»</span>
+<a href="/am/news/2021/11/10/gas/3724295" class="list__link db fb">
+<span class="list__date db fb fs14">17:03 &bull; 10/11</span>
+<span class="list__title db">Եվրոպայում գազի գինն իջել է 1000 խորանարդ մետրի համար 800 դոլարից ցած</span>
 </a>
 </div>
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a href="/am/news/2021/11/10/Pashinyan/3724199" class="list__link db fb">
-<span class="list__date db fb fs14">15:14 &bull; 10/11</span>
-<span class="list__title db">Փաշինյանը հրաժեշտի հանդիպում է ունեցել Հայաստանում ՄԱԿ-ի մշտական համակարգողի հետ</span>
+<a href="/am/news/2021/11/10/church/3724288" class="list__link db fb">
+<span class="list__date db fb fs14">17:00 &bull; 10/11</span>
+<span class="list__title db">Լեռնային Ղարաբաղում բացվել է առաջին ուղղափառ եկեղեցին</span>
 </a>
 </div>
 </li>
@@ -371,6 +365,118 @@
                     }
                 });
             </script>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/car/3724280" class="list__link db fb">
+<span class="list__date db fb fs14">16:48 &bull; 10/11</span>
+<span class="list__title db">Մեքսիկայում հանգուցյալին հուղարկավորել են իր սիրած մեքենայի հետ (տեսանյութ)</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/bag/3724275" class="list__link db fb">
+<span class="list__date db fb fs14">16:38 &bull; 10/11</span>
+<span class="list__title db">1 մլն դոլար. Աբու Դաբիում վաճառվել է 18-կարատանոց ոսկուց պատրաստված Hermes Birkin պայուսակը</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/football/3724269" class="list__link db fb">
+<span class="list__date db fb fs14">16:37 &bull; 10/11</span>
+<span class="list__title db">Հայաստանի Մ-19 հավաքականը գերկամային հաղթանակ տարավ Շոտլանդիայի նկատմամբ</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/sweden/3724263" class="list__link db fb">
+<span class="list__date db fb fs14">16:20 &bull; 10/11</span>
+<span class="list__title db">Շվեդիայի վարչապետ Ստեֆան Լյովենը պաշտոնաթող կլինի</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/drills/3724255" class="list__link db fb">
+<span class="list__date db fb fs14">16:15 &bull; 10/11</span>
+<span class="list__title db">«Ռազմական գործողությունների ենթադրյալ թատերաբեմի ուսումնասիրում». ՌԴ ՊՆ-ն արձագանքել է Սև ծովում ԱՄՆ-ի զորավարժություններին</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/Woman/3724248" class="list__link db fb">
+<span class="list__date db fb fs14">16:12 &bull; 10/11</span>
+<span class="list__title db">Երևանում՝ փողոցում տղամարդը ծեծում է մի կնոջ. քաղաքացիները փորձել են օգնել կնոջը և նկարահանել են բռնության դեպքը (տեսանյութ)</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/germany/3724239" class="list__link db fb">
+<span class="list__date db fb fs14">16:11 &bull; 10/11</span>
+<span class="list__title db">Գերմանիայում պայթյուն է որոտացել զինամթերքի պահեստարանի մերձակայքում</span>
+</a>
+</div>
+</li>
+ <li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/Tonoyan/3724236" class="list__link db fb">
+<span class="list__date db fb fs14">16:10 &bull; 10/11</span>
+<span class="list__title db">Դավիթ Տոնոյանի պաշտպանների ներկայացրած բոլոր միջնորդությունները՝ կապված փորձաքննության հետ, առանց բավարար հիմնավորման մերժվում են․ փաստաբանական խմբի հայտարարությունը</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/smith/3724233" class="list__link db fb">
+<span class="list__date db fb fs14">16:07 &bull; 10/11</span>
+<span class="list__title db">Ուիլ Սմիթը մագլցել է աշխարհում ամենաբարձր շինությունը՝ Դուբայի հանրահայտ Բուրջ Խալիֆան (լուսանկարներ)</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/Conversebank/3724228" class="list__link db fb">
+<span class="list__date db fb fs14">15:50 &bull; 10/11</span>
+<span class="list__title db">Կոնվերս Բանկի ակցիայի հաղթողները ոսկու ձուլակտորներ են ստացել</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/erdogan/3724221" class="list__link db fb">
+<span class="list__date db fb fs14">15:47 &bull; 10/11</span>
+<span class="list__title db">Թուրքիան նպատակ ունի դառնալ աշխարհի առաջատար տերություններից մեկը. Էրդողան</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/peacekeepers/3724214" class="list__link db fb">
+<span class="list__date db fb fs14">15:37 &bull; 10/11</span>
+<span class="list__title db">Ստեփանակերտի մոտ բացվել է խաղաղապահի հուշարձանը</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/statedep/3724205" class="list__link db fb">
+<span class="list__date db fb fs14">15:20 &bull; 10/11</span>
+<span class="list__title db">ԱՄՆ Պետդեպը Վրաստանի իշխանություններին կոչ է արել Սաակաշվիլիի հետ վարվել «արդար և արժանապատիվ»</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a href="/am/news/2021/11/10/Pashinyan/3724199" class="list__link db fb">
+<span class="list__date db fb fs14">15:14 &bull; 10/11</span>
+<span class="list__title db">Փաշինյանը հրաժեշտի հանդիպում է ունեցել Հայաստանում ՄԱԿ-ի մշտական համակարգողի հետ</span>
+</a>
+</div>
+</li>
 <li class="list__item">
 <div class="list__inner-box db pr">
 <a href="/am/news/2021/11/10/Khachik/3724189" class="list__link db fb">
@@ -487,7 +593,7 @@
 <div class="list__inner-box db pr">
 <a href="/am/news/2021/11/10/Holidays/3724103" class="list__link db fb">
 <span class="list__date db fb fs14">13:32 &bull; 10/11</span>
-<span class="list__title db">Ամանորյա տոներին ոչ աշխատանքային կմնա նաև հունվարի 2-ը. փոփոխություն նախագծում (տեսանյութ)</span>
+ <span class="list__title db">Ամանորյա տոներին ոչ աշխատանքային կմնա նաև հունվարի 2-ը. փոփոխություն նախագծում (տեսանյութ)</span>
 </a>
 </div>
 </li>
@@ -543,7 +649,7 @@
 <div class="list__inner-box db pr">
 <a href="/am/news/2021/11/10/live/3724050" class="list__link db fb">
 <span class="list__date db fb fs14">12:15 &bull; 10/11</span>
-<span class="list__title db">ԱԺ պետական-իրավական հարցերի մշտական հանձնաժողովի նիստը՝ ուղիղ</span>
+<span class="list__title db">ԱԺ պետական-իրավական հարցերի մշտական հանձնաժողովի նիստը (տեսանյութ)</span>
 </a>
 </div>
 </li>
@@ -655,7 +761,7 @@
 <div class="list__inner-box db pr">
 <a href="/am/news/2021/11/10/gazprom/3723968" class="list__link db fb">
 <span class="list__date db fb fs14">11:17 &bull; 10/11</span>
-<span class="list__title db">Սպառողների համար գազի սակագինը հունվարի 1-ից չի փոխվի</span>
+ <span class="list__title db">Սպառողների համար գազի սակագինը հունվարի 1-ից չի փոխվի</span>
 </a>
 </div>
 </li>
@@ -946,7 +1052,7 @@
 <a href="/am/news/2021/11/09/news/3723740" class="list__link db fb">
 <span class="list__date db fb fs14">21:29 &bull; 09/11</span>
 <span class="list__title db">Հայ ժողովրդի թիկունքում գործարքներ անելու մասին խոսք անգամ լինել չի կարող․ ՌԴ դեսպանը՝ տարածաշրջանում տնտեսական և տրանսպորտային կապերի վերականգնման մասին</span>
-</a>
+ </a>
 </div>
 </li>
 <li class="list__item">
@@ -1045,120 +1151,6 @@
 </a>
 </div>
 </li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723677" class="list__link db fb">
-<span class="list__date db fb fs14">20:02 &bull; 09/11</span>
-<span class="list__title db">Մայորալը կարող է հեռանալ Ռոմայից</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/migrants/3723668" class="list__link db fb">
-<span class="list__date db fb fs14">19:44 &bull; 09/11</span>
-<span class="list__title db">Գերմանիայում Պուտինին և Էրդողանին մեղադրել են փախստականներին ԵՄ սահմաններ հասցնելու համար</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723658" class="list__link db fb">
-<span class="list__date db fb fs14">19:28 &bull; 09/11</span>
-<span class="list__title db">Չելսին ցանկանում է բաժանվել կիսապաշտպանից, սակայն պայմանագրի մեջ նշված կետն ակումբին թույլ չի տալիս հրաժարվել նրա ծառայություններից</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723653" class="list__link db fb">
-<span class="list__date db fb fs14">19:23 &bull; 09/11</span>
-<span class="list__title db">Ծաղկաշենում բացվեց եւ օրհնվեց Արցախյան վերջին պատերազմում զոհվածների խաչքար-հուշարձանը</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/killing/3723649" class="list__link db fb">
-<span class="list__date db fb fs14">19:12 &bull; 09/11</span>
-<span class="list__title db">Ադբեջանի ԱԳՆ-ն մեկնաբանել է Շուշիի մոտ Ջրմուղի աշխատակիցների վրա կրակ բացելու և նրանցից մեկին սպանելու դեպքը</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723645" class="list__link db fb">
-<span class="list__date db fb fs14">19:10 &bull; 09/11</span>
-<span class="list__title db">Բարսելոնան ցանկանում է թիմում պահել Դեմբելեին
- </span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723636" class="list__link db fb">
-<span class="list__date db fb fs14">19:02 &bull; 09/11</span>
-<span class="list__title db">Շիրակում բախվել են բեռնատարն ու Volkswagen Polo-ն. կին վարորդը հոսպիտալացվել է․ shamshyan.com</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723629" class="list__link db fb">
-<span class="list__date db fb fs14">18:54 &bull; 09/11</span>
-<span class="list__title db">«Մոդեռնա»–ի 60 700 դեղաչափ պատվաստանյութը Հայաստանում է
- </span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723628" class="list__link db fb">
-<span class="list__date db fb fs14">18:48 &bull; 09/11</span>
-<span class="list__title db">Ներկայացվել են Երևանի զարգացման ծրագրով և բյուջեով առաջնահերթ ուղղությունները</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723622" class="list__link db fb">
-<span class="list__date db fb fs14">18:44 &bull; 09/11</span>
-<span class="list__title db">Սննդային թունավորման կասկածով «Մուրացան» համալսարանական հիվանդանոց է ընդունվել 8 երեխա</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723618" class="list__link db fb">
-<span class="list__date db fb fs14">18:40 &bull; 09/11</span>
-<span class="list__title db">2022թ․ բյուջեի նախագիծը Կառավարության ներկայացրած ցուցանիշներով ընդունելու պարագայում սոցիալապես խոցելի խմբերը 2022թ․ էլ ավելի վատ կապրեն այս տարվա համեմատ․ Թադևոս Ավետիսյան</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/discuss/3723611" class="list__link db fb">
-<span class="list__date db fb fs14">18:39 &bull; 09/11</span>
-<span class="list__title db">Լավրովը Սուրբ Աթոռի քարտուղարի հետ քննարկել է Լեռնային Ղարաբաղը</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/news/3723603" class="list__link db fb">
-<span class="list__date db fb fs14">18:28 &bull; 09/11</span>
-<span class="list__title db">Սուրբ Գայանե վանքում հոգեհանգստյան կարգ է կատարվել 44-օրյա պատերազմում զոհվածների հիշատակին</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a href="/am/news/2021/11/09/black-sea/3723593" class="list__link db fb">
-<span class="list__date db fb fs14">18:19 &bull; 09/11</span>
-<span class="list__title db">ՌԴ ՊՆ-ն ապակայունացնող Է որակել Սև ծովում ԱՄՆ-ի արտապլանային ակտիվությունը</span>
-</a>
-</div>
-</li>
 </ul>
 <div id="adfox_161898688300129411"></div>
 <script>
@@ -1180,25 +1172,25 @@
 <ul class="list list--with-scroll list--max-height-none list--max-height-limited scroller-block " id="dayTopList">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
-Իրադարձային </a>
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Sports" style="color: #f50a48;">
+Սպորտ </a>
 <span class="list__date ver-top-box fb fs12">
-13:04 &bull; 10.11.21 </span>
-<a href="/am/news/2021/11/10/Moh-sfss/3724090" class="list__link db fb">
+14:21 &bull; 10.11.21 </span>
+<a href="/am/news/2021/11/10/football/3724140" class="list__link db fb">
 <span class="list__title db">
-Աղցան, տավարի միս, հավի միս, երշիկ․ հայտնի են «Տաշիր պիցցայում» թունավորման պատճառները </span>
+Աղբյուր․ Իտալական գրանդը հետևում է Մխիթարյանի շուրջ ստեղծված իրավիճակին </span>
 </a>
 </div>
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/politics" style="color: #1567a9;">
-Քաղաքականություն </a>
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
 <span class="list__date ver-top-box fb fs12">
-11:20 &bull; 10.11.21 </span>
-<a href="/am/news/2021/11/10/Artsakh/3723976" class="list__link db fb">
+13:32 &bull; 10.11.21 </span>
+<a href="/am/news/2021/11/10/Holidays/3724103" class="list__link db fb">
 <span class="list__title db">
-Հայրենիքում արցախահայության անվտանգ և արժանապատիվ ապրելու իրավունքի իրացումը հնարավոր է միայն Արցախի միջազգային ճանաչման պարագայում․ Արցախի ԱԺ խմբակցություններ </span>
+Ամանորյա տոներին ոչ աշխատանքային կմնա նաև հունվարի 2-ը. փոփոխություն նախագծում (տեսանյութ) </span>
 </a>
 </div>
 </li>
@@ -1215,10 +1207,34 @@
                 </script>
 <li class="list__item">
 <div class="list__inner-box db pr">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">
+13:04 &bull; 10.11.21 </span>
+<a href="/am/news/2021/11/10/Moh-sfss/3724090" class="list__link db fb">
+<span class="list__title db">
+Աղցան, տավարի միս, հավի միս, երշիկ․ հայտնի են «Տաշիր պիցցայում» թունավորման պատճառները  </span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/politics" style="color: #1567a9;">
+Քաղաքականություն </a>
+<span class="list__date ver-top-box fb fs12">
+11:20 &bull; 10.11.21 </span>
+<a href="/am/news/2021/11/10/Artsakh/3723976" class="list__link db fb">
+<span class="list__title db">
+Հայրենիքում արցախահայության անվտանգ և արժանապատիվ ապրելու իրավունքի իրացումը հնարավոր է միայն Արցախի միջազգային ճանաչման պարագայում․ Արցախի ԱԺ խմբակցություններ </span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/science" style="color: #606570;">
 Գիտություն/տեխնիկա </a>
 <span class="list__date ver-top-box fb fs12">
- 12:19 &bull; 10.11.21 </span>
+12:19 &bull; 10.11.21 </span>
 <a href="/am/news/2021/11/10/pandemia/3724060" class="list__link db fb">
 <span class="list__title db">
 ԱՀԿ-ն ասել է՝ երբ կարող է հայտարարել կորոնավիրուսային համավարակի ավարտի մասին </span>
@@ -1249,6 +1265,7 @@
 </a>
 </div>
 </li>
+
 <li class="list__item">
 <div class="list__inner-box db pr">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/Կորոնավիրուս" style="color: #f70857;">
@@ -1417,7 +1434,7 @@
 </a>
 </div>
 </li>
- <li class="list__item">
+<li class="list__item">
 <div class="list__inner-box db pr">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
 Իրադարձային </a>
@@ -1462,7 +1479,7 @@
 <a href="/am/news/2021/11/09/news/3723618" class="list__link db fb">
 <span class="list__title db">
 2022թ․ բյուջեի նախագիծը Կառավարության ներկայացրած ցուցանիշներով ընդունելու պարագայում սոցիալապես խոցելի խմբերը 2022թ․ էլ ավելի վատ կապրեն այս տարվա համեմատ․ Թադևոս Ավետիսյան </span>
- </a>
+</a>
 </div>
 </li>
 <li class="list__item">
@@ -1492,7 +1509,7 @@
 <li class="list__item">
 <div class="list__inner-box db pr">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
-Իրադարձային </a>
+Իրադարձային  </a>
 <span class="list__date ver-top-box fb fs12">
 18:44 &bull; 09.11.21 </span>
 <a href="/am/news/2021/11/09/news/3723622" class="list__link db fb">
@@ -1516,7 +1533,7 @@
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
- <a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
 Իրադարձային </a>
 <span class="list__date ver-top-box fb fs12">
 19:12 &bull; 09.11.21 </span>
@@ -1552,30 +1569,6 @@
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/politics" style="color: #1567a9;">
-Քաղաքականություն </a>
-<span class="list__date ver-top-box fb fs12">
-16:00 &bull; 09.11.21 </span>
-<a href="/am/news/2021/11/09/karabakh/3723496" class="list__link db fb">
-<span class="list__title db">
-Լեռնային Ղարաբաղ. մեկ տարի առանց պատերազմի և դիվանագիտական լաբիրինթոսում. Regnum </span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/politics" style="color: #1567a9;">
-Քաղաքականություն </a>
-<span class="list__date ver-top-box fb fs12">
-16:16 &bull; 09.11.21 </span>
-<a href="/am/news/2021/11/09/Danibekyan/3723501" class="list__link db fb">
-<span class="list__title db">
-Աննա Դանիբեկյանը Արցախը համարո՞ւմ է այլ տարածք․‹‹Այլընտրանքային նախագծեր խումբը››՝ դատավորի հայտարարության մասին </span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
 Իրադարձային </a>
 <span class="list__date ver-top-box fb fs12">
@@ -1586,35 +1579,11 @@
 </a>
 </div>
 </li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Sports" style="color: #f50a48;">
-Սպորտ </a>
-<span class="list__date ver-top-box fb fs12">
-16:46 &bull; 09.11.21 </span>
-<a href="/am/news/2021/11/09/henrikh-mkhitaryan/3723509" class="list__link db fb">
-<span class="list__title db">
-Ռուսական ակումբը հերքել է Մխիթարյանի ծառայություններով հետաքրքրված լինելու լուրերը </span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
-Իրադարձային </a>
-<span class="list__date ver-top-box fb fs12">
-15:25 &bull; 09.11.21 </span>
-<a href="/am/news/2021/11/09/israel/3723491" class="list__link db fb">
-<span class="list__title db">
-Իսրայելի խորհրդարանի ընդդիմադիր պատգամավորները Հայոց ցեղասպանությունը ճանաչելու օրինագիծ են ներկայացրել </span>
-</a>
-</div>
-</li>
 </ul>
 <button class="blue-btn fb fs14 ver-top-box trans-background dn" type="submit">Տեսնել բոլորը</button>
 </div>
 <div class="ads-box ads-box--transparent scroller-block">
- <div class="fb-like-box" data-href=" https://www.facebook.com/TERTam.arm" data-width="287" data-show-faces="true" data-border-color="#748181" data-stream="false" data-header="false"></div>
+<div class="fb-like-box" data-href=" https://www.facebook.com/TERTam.arm" data-width="287" data-show-faces="true" data-border-color="#748181" data-stream="false" data-header="false"></div>
 <script src="https://connect.facebook.net/hy_AM/all.js#xfbml=1"></script><fb:activity width="639" recommendations="true"></fb:activity>
 </div>
 <div class="ads-box ads-box--transparent ads-box--tweets scroller-block">
@@ -1630,6 +1599,16 @@
 <div class="video-box pr">
 <div class="video-box__left fl">
 <div class="video-box__tab" id="video-box__tab-0">
+<div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/0s9gwbgWNbk?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
+<img class="video-box__img" src="/cache_video/video_images/73/216148_1/capture.thumb-550x310.jpg" alt="" />
+</div>
+<div class="video-box__date fb fs12">16:02 &bull; 10.11.21</div>
+<h3 class="video-box__title fb fs18">
+Երևանում` փողոցում տղամարդը ծեծում է կնոջ. ականատեսները փորձել են օգնել ու նկարահանել են միջադեպը </h3>
+<p class="video-box__description fs15 three-dots">
+</p>
+</div>
+<div class="video-box__tab dn" id="video-box__tab-1">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/iQtVcJQ7dsk?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216138_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1639,7 +1618,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-1">
+<div class="video-box__tab dn" id="video-box__tab-2">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/Fu28v_GnQPk?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216136_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1649,7 +1628,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-2">
+<div class="video-box__tab dn" id="video-box__tab-3">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/c6womNpUMZo?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216127_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1659,7 +1638,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-3">
+<div class="video-box__tab dn" id="video-box__tab-4">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/SdfMaZOw4w0?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216117_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1669,7 +1648,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-4">
+<div class="video-box__tab dn" id="video-box__tab-5">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/ie2B7n-5Tjk?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216115_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1679,7 +1658,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-5">
+<div class="video-box__tab dn" id="video-box__tab-6">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/Et0WQe2ocDA?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216110_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1689,7 +1668,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-6">
+<div class="video-box__tab dn" id="video-box__tab-7">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/nB43Ah7TeIo?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216109_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1699,7 +1678,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-7">
+<div class="video-box__tab dn" id="video-box__tab-8">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/ZraHt86W8aw?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/18/51637_1/l.thumb-550x310.jpg" alt="" />
 </div>
@@ -1709,7 +1688,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-8">
+<div class="video-box__tab dn" id="video-box__tab-9">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/_hYlV6excc0?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216102_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1719,7 +1698,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-9">
+<div class="video-box__tab dn" id="video-box__tab-10">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/DBWiuY83zfc?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216095_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1729,7 +1708,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-10">
+<div class="video-box__tab dn" id="video-box__tab-11">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/9cSdyMjpqDk?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216088_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1739,7 +1718,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-11">
+<div class="video-box__tab dn" id="video-box__tab-12">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/GSSo2-JSZzc?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216081_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1749,7 +1728,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-12">
+<div class="video-box__tab dn" id="video-box__tab-13">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/6lTmGBRTFTM?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216074_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1757,9 +1736,9 @@
 <h3 class="video-box__title fb fs18">
 Նիկոլ Փաշինյանը նոյեմբերի 9-ի տարելիցի կապակցությամբ այցելել է Եռաբլուր զինվորական պանթեոն </h3>
 <p class="video-box__description fs15 three-dots">
-</p>
+ </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-13">
+<div class="video-box__tab dn" id="video-box__tab-14">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/oEt_pQUN910?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216065_1/capture.thumb-550x310.png" alt="" />
 </div>
@@ -1769,7 +1748,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-14">
+<div class="video-box__tab dn" id="video-box__tab-15">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/tVWJ6USMb5g?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216047_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1779,7 +1758,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-15">
+<div class="video-box__tab dn" id="video-box__tab-16">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/fsffp7l3fxg?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216057_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1789,7 +1768,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-16">
+<div class="video-box__tab dn" id="video-box__tab-17">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/wZL3p9gzaRo?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216037_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1799,7 +1778,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-17">
+<div class="video-box__tab dn" id="video-box__tab-18">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/lZjtlUzOG6U?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216036_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1809,7 +1788,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-18">
+<div class="video-box__tab dn" id="video-box__tab-19">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/z8c5TTlTBOM?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216035_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1819,7 +1798,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-19">
+<div class="video-box__tab dn" id="video-box__tab-20">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/LBo9LwRy_YM?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216029_1/7.thumb-550x310.jpg" alt="" />
 </div>
@@ -1829,7 +1808,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-20">
+<div class="video-box__tab dn" id="video-box__tab-21">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/nrCJCdxJRGE?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216028_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1837,9 +1816,9 @@
 <h3 class="video-box__title fb fs18">
 Այս իշխանությունն է բանակը քանդել իր կադրային փոփոխություններով և քաղաքական կախվածության մեջ գցելով․ Սեյրան Օհանյան </h3>
 <p class="video-box__description fs15 three-dots">
- </p>
+</p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-21">
+<div class="video-box__tab dn" id="video-box__tab-22">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/uYBLcDbMUgA?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216018_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1849,17 +1828,17 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-22">
+<div class="video-box__tab dn" id="video-box__tab-23">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/sB7wsM_GluM?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216017_1/capture.thumb-550x310.jpg" alt="" />
 </div>
 <div class="video-box__date fb fs12">18:44 &bull; 08.11.21</div>
 <h3 class="video-box__title fb fs18">
 Պետք է ձևավորենք համազգային դիմադրություն․ Իշխան Սաղաթելյան </h3>
-<p class="video-box__description fs15 three-dots">
+ <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-23">
+<div class="video-box__tab dn" id="video-box__tab-24">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/USZrdwZoc-Y?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216010_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1869,7 +1848,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-24">
+<div class="video-box__tab dn" id="video-box__tab-25">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/XCduAqMfcww?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216008_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1879,7 +1858,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-25">
+<div class="video-box__tab dn" id="video-box__tab-26">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/2xAgwFGYlB0?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/73/216002_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1889,7 +1868,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-26">
+<div class="video-box__tab dn" id="video-box__tab-27">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/xIWxTAjqCeY?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="https://img.youtube.com/vi/xIWxTAjqCeY/maxresdefault.jpg" alt="" />
 </div>
@@ -1899,7 +1878,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-27">
+<div class="video-box__tab dn" id="video-box__tab-28">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/3HnTJ7LWb8c?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215988_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1909,7 +1888,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-28">
+<div class="video-box__tab dn" id="video-box__tab-29">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/Fv6FJkFSoX0?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215985_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1919,7 +1898,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-29">
+<div class="video-box__tab dn" id="video-box__tab-30">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/uWggIlK9qWY?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215980_1/23996_b.thumb-550x310.jpg" alt="" />
 </div>
@@ -1929,7 +1908,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-30">
+<div class="video-box__tab dn" id="video-box__tab-31">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/i3vG0dho9Fk?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215971_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1939,7 +1918,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-31">
+<div class="video-box__tab dn" id="video-box__tab-32">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/d6l1S8aViUo?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215961_1/1.thumb-550x310.jpg" alt="" />
 </div>
@@ -1949,7 +1928,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-32">
+<div class="video-box__tab dn" id="video-box__tab-33">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/H0V4aWYFQBQ?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215960_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1959,7 +1938,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-33">
+<div class="video-box__tab dn" id="video-box__tab-34">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/6IhiuY2Pw98?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215958_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1969,7 +1948,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-34">
+<div class="video-box__tab dn" id="video-box__tab-35">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/Kwasd5PE4_g?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215950_1/capture.thumb-550x310.jpg" alt="" />
 </div>
@@ -1979,7 +1958,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-35">
+<div class="video-box__tab dn" id="video-box__tab-36">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/SyA7qRlxRVw?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215944_1/capture.thumb-550x310.png" alt="" />
 </div>
@@ -1989,7 +1968,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-36">
+<div class="video-box__tab dn" id="video-box__tab-37">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/XC96Z1bYhy8?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215935_1/capture.thumb-550x310.png" alt="" />
 </div>
@@ -1999,7 +1978,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-37">
+<div class="video-box__tab dn" id="video-box__tab-38">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/0LmfIKx0U4M?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215922_1/1.thumb-550x310.png" alt="" />
 </div>
@@ -2009,7 +1988,7 @@
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-38">
+<div class="video-box__tab dn" id="video-box__tab-39">
 <div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/svTlzfGN-xM?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
 <img class="video-box__img" src="/cache_video/video_images/72/215926_1/capture.thumb-550x310.png" alt="" />
 </div>
@@ -2019,21 +1998,21 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <p class="video-box__description fs15 three-dots">
 </p>
 </div>
-<div class="video-box__tab dn" id="video-box__tab-39">
-<div class="video-box__frame pr sprite-a center-center-after" data-url="https://www.youtube.com/embed/memAzmQRIh8?autoplay=1&hl=en&fs=1&rel=0&showinfo=0">
-<img class="video-box__img" src="https://img.youtube.com/vi/memAzmQRIh8/maxresdefault.jpg" alt="" />
 </div>
-<div class="video-box__date fb fs12">16:47 &bull; 05.11.21</div>
-<h3 class="video-box__title fb fs18">
-Տիգրանաշենի առանձնատունը ես եմ սարքել, վրաս նստել է 200 հազար դոլար. Արարատի մարզպետ </h3>
-<p class="video-box__description fs15 three-dots">
-</p>
-</div>
-</div>
-<div class="video-box__right">
+ <div class="video-box__right">
 <ul class="list list--column scroller-block">
 <li class="list__item">
 <a href="#video-box__tab-0" class="list__link list__link--active db">
+<span class="list__img-box db fl">
+<img class="list__img" src="/cache_video/video_images/73/216148_1/capture.thumb-550x310.jpg" alt="" />
+<span class="list__date db fb fs10">16:02 &bull; 10.11.21</span>
+</span>
+<span class="list__title db fb fs12">
+Երևանում` փողոցում տղամարդը ծեծում է կնոջ. ականատեսները փորձել են օգնել ու նկարահանել են միջադեպը </span>
+</a>
+</li>
+<li class="list__item">
+<a href="#video-box__tab-1" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216138_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">14:43 &bull; 10.11.21</span>
@@ -2043,7 +2022,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-1" class="list__link db">
+<a href="#video-box__tab-2" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216136_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">13:30 &bull; 10.11.21</span>
@@ -2053,8 +2032,8 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-2" class="list__link db">
- <span class="list__img-box db fl">
+<a href="#video-box__tab-3" class="list__link db">
+<span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216127_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">13:00 &bull; 10.11.21</span>
 </span>
@@ -2063,7 +2042,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-3" class="list__link db">
+<a href="#video-box__tab-4" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216117_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">12:16 &bull; 10.11.21</span>
@@ -2073,7 +2052,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-4" class="list__link db">
+<a href="#video-box__tab-5" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216115_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">11:59 &bull; 10.11.21</span>
@@ -2083,7 +2062,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-5" class="list__link db">
+<a href="#video-box__tab-6" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216110_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">14:10 &bull; 09.11.21</span>
@@ -2093,7 +2072,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-6" class="list__link db">
+<a href="#video-box__tab-7" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216109_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">13:43 &bull; 09.11.21</span>
@@ -2103,7 +2082,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-7" class="list__link db">
+ <a href="#video-box__tab-8" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/18/51637_1/l.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">13:39 &bull; 09.11.21</span>
@@ -2113,7 +2092,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-8" class="list__link db">
+<a href="#video-box__tab-9" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216102_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">13:37 &bull; 09.11.21</span>
@@ -2123,7 +2102,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-9" class="list__link db">
+<a href="#video-box__tab-10" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216095_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">12:56 &bull; 09.11.21</span>
@@ -2133,9 +2112,9 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-10" class="list__link db">
+<a href="#video-box__tab-11" class="list__link db">
 <span class="list__img-box db fl">
- <img class="list__img" src="/cache_video/video_images/73/216088_1/capture.thumb-550x310.jpg" alt="" />
+<img class="list__img" src="/cache_video/video_images/73/216088_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">12:44 &bull; 09.11.21</span>
 </span>
 <span class="list__title db fb fs12">
@@ -2143,7 +2122,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-11" class="list__link db">
+ <a href="#video-box__tab-12" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216081_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">12:22 &bull; 09.11.21</span>
@@ -2153,7 +2132,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-12" class="list__link db">
+<a href="#video-box__tab-13" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216074_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">11:48 &bull; 09.11.21</span>
@@ -2163,7 +2142,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-13" class="list__link db">
+<a href="#video-box__tab-14" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216065_1/capture.thumb-550x310.png" alt="" />
 <span class="list__date db fb fs10">10:22 &bull; 09.11.21</span>
@@ -2173,7 +2152,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-14" class="list__link db">
+<a href="#video-box__tab-15" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216047_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">20:20 &bull; 08.11.21</span>
@@ -2183,7 +2162,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-15" class="list__link db">
+<a href="#video-box__tab-16" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216057_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">20:19 &bull; 08.11.21</span>
@@ -2193,7 +2172,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-16" class="list__link db">
+<a href="#video-box__tab-17" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216037_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">19:47 &bull; 08.11.21</span>
@@ -2203,7 +2182,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-17" class="list__link db">
+<a href="#video-box__tab-18" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216036_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">19:40 &bull; 08.11.21</span>
@@ -2213,7 +2192,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-18" class="list__link db">
+<a href="#video-box__tab-19" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216035_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">19:20 &bull; 08.11.21</span>
@@ -2223,8 +2202,8 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-19" class="list__link db">
-<span class="list__img-box db fl">
+<a href="#video-box__tab-20" class="list__link db">
+ <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216029_1/7.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">19:14 &bull; 08.11.21</span>
 </span>
@@ -2233,7 +2212,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-20" class="list__link db">
+<a href="#video-box__tab-21" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216028_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">19:08 &bull; 08.11.21</span>
@@ -2243,7 +2222,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-21" class="list__link db">
+<a href="#video-box__tab-22" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216018_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">18:52 &bull; 08.11.21</span>
@@ -2253,17 +2232,17 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-22" class="list__link db">
+<a href="#video-box__tab-23" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216017_1/capture.thumb-550x310.jpg" alt="" />
- <span class="list__date db fb fs10">18:44 &bull; 08.11.21</span>
+<span class="list__date db fb fs10">18:44 &bull; 08.11.21</span>
 </span>
 <span class="list__title db fb fs12">
 Պետք է ձևավորենք համազգային դիմադրություն․ Իշխան Սաղաթելյան </span>
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-23" class="list__link db">
+<a href="#video-box__tab-24" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216010_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">18:27 &bull; 08.11.21</span>
@@ -2273,7 +2252,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-24" class="list__link db">
+<a href="#video-box__tab-25" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216008_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">18:16 &bull; 08.11.21</span>
@@ -2283,7 +2262,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-25" class="list__link db">
+<a href="#video-box__tab-26" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/73/216002_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">18:04 &bull; 08.11.21</span>
@@ -2293,7 +2272,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-26" class="list__link db">
+<a href="#video-box__tab-27" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="https://img.youtube.com/vi/xIWxTAjqCeY/maxresdefault.jpg" alt="" />
 <span class="list__date db fb fs10">14:17 &bull; 08.11.21</span>
@@ -2303,17 +2282,17 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-27" class="list__link db">
+<a href="#video-box__tab-28" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215988_1/capture.thumb-550x310.jpg" alt="" />
-<span class="list__date db fb fs10">12:20 &bull; 08.11.21</span>
+ <span class="list__date db fb fs10">12:20 &bull; 08.11.21</span>
 </span>
 <span class="list__title db fb fs12">
 Այս գիշեր կորոնավիրուսից հղի կին է մահացել. Անահիտ Ավանեսյան </span>
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-28" class="list__link db">
+<a href="#video-box__tab-29" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215985_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">11:34 &bull; 08.11.21</span>
@@ -2323,7 +2302,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-29" class="list__link db">
+<a href="#video-box__tab-30" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215980_1/23996_b.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">22:27 &bull; 07.11.21</span>
@@ -2333,7 +2312,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-30" class="list__link db">
+<a href="#video-box__tab-31" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215971_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">16:10 &bull; 07.11.21</span>
@@ -2343,7 +2322,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-31" class="list__link db">
+<a href="#video-box__tab-32" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215961_1/1.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">13:33 &bull; 07.11.21</span>
@@ -2353,7 +2332,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-32" class="list__link db">
+<a href="#video-box__tab-33" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215960_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">13:20 &bull; 07.11.21</span>
@@ -2363,7 +2342,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-33" class="list__link db">
+<a href="#video-box__tab-34" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215958_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">12:48 &bull; 07.11.21</span>
@@ -2373,7 +2352,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-34" class="list__link db">
+<a href="#video-box__tab-35" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215950_1/capture.thumb-550x310.jpg" alt="" />
 <span class="list__date db fb fs10">12:19 &bull; 07.11.21</span>
@@ -2383,17 +2362,17 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-35" class="list__link db">
+<a href="#video-box__tab-36" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215944_1/capture.thumb-550x310.png" alt="" />
 <span class="list__date db fb fs10">19:22 &bull; 06.11.21</span>
 </span>
 <span class="list__title db fb fs12">
-Հանրահայտ հրեա դիրիժոր Իտայ Թալգամը ելույթ է ունեցել «Առաջնորդության սիմֆոնիա» համաժողովին </span>
+ Հանրահայտ հրեա դիրիժոր Իտայ Թալգամը ելույթ է ունեցել «Առաջնորդության սիմֆոնիա» համաժողովին </span>
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-36" class="list__link db">
+<a href="#video-box__tab-37" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215935_1/capture.thumb-550x310.png" alt="" />
 <span class="list__date db fb fs10">16:13 &bull; 06.11.21</span>
@@ -2403,7 +2382,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-37" class="list__link db">
+<a href="#video-box__tab-38" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215922_1/1.thumb-550x310.png" alt="" />
 <span class="list__date db fb fs10">15:48 &bull; 06.11.21</span>
@@ -2413,23 +2392,13 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </li>
 <li class="list__item">
-<a href="#video-box__tab-38" class="list__link db">
+<a href="#video-box__tab-39" class="list__link db">
 <span class="list__img-box db fl">
 <img class="list__img" src="/cache_video/video_images/72/215926_1/capture.thumb-550x310.png" alt="" />
 <span class="list__date db fb fs10">15:02 &bull; 06.11.21</span>
 </span>
 <span class="list__title db fb fs12">
 Genesis Armenia-ի գրասենյակում տեղի է ունենում քննարկում՝ «Արցախի հայկական անձնագիրը» թեմայով․ ուղիղ </span>
- </a>
-</li>
-<li class="list__item">
-<a href="#video-box__tab-39" class="list__link db">
-<span class="list__img-box db fl">
-<img class="list__img" src="https://img.youtube.com/vi/memAzmQRIh8/maxresdefault.jpg" alt="" />
-<span class="list__date db fb fs10">16:47 &bull; 05.11.21</span>
-</span>
-<span class="list__title db fb fs12">
-Տիգրանաշենի առանձնատունը ես եմ սարքել, վրաս նստել է 200 հազար դոլար. Արարատի մարզպետ </span>
 </a>
 </li>
 </ul>
@@ -2454,22 +2423,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <ul class="list list--max-height-none list--inline show-link-visited scroller-block" style="max-height: 1390px;">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/covid-19/3723500">
-<img src="/cache_image/news_images/1242/3723500_1/vaccination_covid_19_1500x1000-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Կորոնավիրուս" style="color: #f70857;">
-Կորոնավիրուս </a>
-<span class="list__date ver-top-box fb fs12">16:15 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/covid-19/3723500" class="list__link db">
-<span class="list__title db fb fs15">Բրիտանացի բժիշկը բացատրել է, թե ինչու են մահանում COVID-19-ի դեմ պատվաստվածները</span>
-<span class="list__description db fs13 three-dots">Բրիտանացի բժիշկ Սյուզան Հոփկինսն ընդգծել Է, որ COVID-19-ից մահանում են հիմնականում չպատվաստվածները, բայց նաև նշել Է, որ կորոնավիրուսի դեմ պատվաստում կատարած մարդիկ կարող են մահանալ պատվաստվելիս ստացված իմունային պատասխանի աստիճանական թուլացման պատճառով: </span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/09/killing/3723649">
 <img src="/cache_image/news_images/1242/3723649_1/trend_mid_azerbaijan_main_1200x710-190x128.jpg" alt="" />
 </a>
@@ -2480,6 +2433,23 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <a href="/am/news/2021/11/09/killing/3723649" class="list__link db">
 <span class="list__title db fb fs15">Ադբեջանի ԱԳՆ-ն մեկնաբանել է Շուշիի մոտ Ջրմուղի աշխատակիցների վրա կրակ բացելու և նրանցից մեկին սպանելու դեպքը</span>
 <span class="list__description db fs13 three-dots">«Ինչպես գիտեք, նման դեպքերում տարածքում անվտանգության ուժեղացված միջոցառումներ են իրականացվում։ Իմանալով դա՝ տարածքին մոտ գտնվող կետում ջրամատակարարման գծի վերանորոգումը ոչ մի տրամաբանության մեջ չի տեղավորվում»,-ասել է Աբդուլաևան:
+</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/10/Woman/3724248">
+<img src="/cache_image/news_images/1242/3724248_1/capture-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">16:12 &bull; 10/11</span>
+<a href="/am/news/2021/11/10/Woman/3724248" class="list__link db">
+<span class="list__title db fb fs15">Երևանում՝ փողոցում տղամարդը ծեծում է մի կնոջ. քաղաքացիները փորձել են օգնել կնոջը և նկարահանել են բռնության դեպքը (տեսանյութ)</span>
+<span class="list__description db fs13 three-dots">Այսօր սոցիալական ցանցում Զառա Ղազարյան օգտատերը տեսանյութ էր հրապարակել, որտեղ տղամարդը փողոցում բռնության է ենթարկում մի կնոջ:
 </span>
 </a>
 </div>
@@ -2521,38 +2491,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/gb/3723716">
-<img src="/cache_image/news_images/1242/3723716_1/ssss-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
-Իրադարձային </a>
-<span class="list__date ver-top-box fb fs12">20:57 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/gb/3723716" class="list__link db">
-<span class="list__title db fb fs15">Մեծ Բրիտանիայի Համայնքների պալատն առաջին ընթերցմամբ ընդունել է Ցեղասպանությունը ճանաչող բանաձևը</span>
-<span class="list__description db fs13 three-dots">«Այսօր պատմական օր է Հայկական հարցի համար։ Հայոց ցեղասպանության մասին օրինագծի առաջին ընթերցումն անցել է առանց առարկությունների։ Հաջորդ ընթերցումը տեղի կունենա 2022 թվականի մարտի 18-ին: Շնորհակալություն ենք հայտնում Թիմ Լաֆթոնին և բոլոր համահեղինակներին այս հաջողության համար»...</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/Danibekyan/3723501">
-<img src="/cache_image/news_images/1242/3723501_1/7-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/politics" style="color: #1567a9;">
-Քաղաքականություն </a>
-<span class="list__date ver-top-box fb fs12">16:16 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/Danibekyan/3723501" class="list__link db">
-<span class="list__title db fb fs15">Աննա Դանիբեկյանը Արցախը համարո՞ւմ է այլ տարածք․‹‹Այլընտրանքային նախագծեր խումբը››՝ դատավորի հայտարարության մասին</span>
-<span class="list__description db fs13 three-dots">Այսօր հերթական աբսուրդի թատրոնն էր Երևան քաղաքի ընդհանուր իրավասության դատարանում և այդ աբսուրդի կենտրոնում կրկին Աննա Դանիբեկյանն էր…</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/10/hti/3724039">
 <img src="/cache_image/news_images/1242/3724039_1/f618b7d88b533c_618b7d88b537f-190x128.jpg" alt="" />
 </a>
@@ -2585,48 +2523,16 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/news/3723778">
-<img src="/cache_image/news_images/1242/3723778_1/capture-190x128.png" alt="" />
+<a class="list__img-box db fl" href="/am/news/2021/11/09/gb/3723716">
+<img src="/cache_image/news_images/1242/3723716_1/ssss-190x128.jpg" alt="" />
 </a>
 <div class="list__inner-box-wrapper">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
 Իրադարձային </a>
-<span class="list__date ver-top-box fb fs12">22:14 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/news/3723778" class="list__link db">
-<span class="list__title db fb fs15">Մեծամորի ոստիկանապետը Toyota-ով մխրճվել է Volvo-ի ավտոքարշակի հետնամասի մեջ, նա հոսպիտալացվել է. shamshyan.com</span>
-<span class="list__description db fs13 three-dots">Այսօր՝ նոյեմբերի 9-ին, խոշոր ավտովթար է տեղի ունեցել Արմավիրի մարզում։ Ժամը 21։00-ի սահմաններում Երևան-Արմավիր ավտոճանապարհի 22 կմ հատվածում Toyota Corolla մակնիշի ավտոմեքենան դեպի ․․․</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/10/coronavirus/3723908">
-<img src="/cache_image/news_images/1242/3723908_1/12-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Կորոնավիրուս" style="color: #f70857;">
-Կորոնավիրուս </a>
-<span class="list__date ver-top-box fb fs12">11:07 &bull; 10/11</span>
-<a href="/am/news/2021/11/10/coronavirus/3723908" class="list__link db">
-<span class="list__title db fb fs15">Կորոնավիրուսի հետևանքով մահվան դեպքերի հակառեկորդ՝ 80 դեպք է արձանագրվել նախօրեին․ վարակվել է 1675 մարդ, վարակվածների ընդհանուր թիվը 324 039 է, մահվան դեպքերինը՝ 8184</span>
-<span class="list__description db fs13 three-dots">Հայաստանում նոյեմբերի 10-ի դրությամբ հաստատվել է կորոնավիրուսով վարակման 1675 նոր դեպք, վարակվածների ընդհանուր թիվը հասել է 324 039-ի:</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/news/3723622">
-<img src="/cache_image/news_images/1242/3723622_1/l_6rjeodrhnj-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
-Իրադարձային </a>
-<span class="list__date ver-top-box fb fs12">18:44 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/news/3723622" class="list__link db">
-<span class="list__title db fb fs15">Սննդային թունավորման կասկածով «Մուրացան» համալսարանական հիվանդանոց է ընդունվել 8 երեխա</span>
-<span class="list__description db fs13 three-dots">ԵՊԲՀ աշխատակազմի ղեկավար Շուշան Դանիելյանը ֆեյսբուքյան իր էջում գրառում է արել, որում ասվում է․&laquo;&laquo;Մուրացան&raquo; համալսարանական հիվանդանոց են ընդունվել է 8 երեխա,7ից 11 տարեկան հասակի, սննդային թունավորման կ</span>
+<span class="list__date ver-top-box fb fs12">20:57 &bull; 09/11</span>
+<a href="/am/news/2021/11/09/gb/3723716" class="list__link db">
+<span class="list__title db fb fs15">Մեծ Բրիտանիայի Համայնքների պալատն առաջին ընթերցմամբ ընդունել է Ցեղասպանությունը ճանաչող բանաձևը</span>
+<span class="list__description db fs13 three-dots">«Այսօր պատմական օր է Հայկական հարցի համար։ Հայոց ցեղասպանության մասին օրինագծի առաջին ընթերցումն անցել է առանց առարկությունների։ Հաջորդ ընթերցումը տեղի կունենա 2022 թվականի մարտի 18-ին: Շնորհակալություն ենք հայտնում Թիմ Լաֆթոնին և բոլոր համահեղինակներին այս հաջողության համար»...</span>
 </a>
 </div>
 </div>
@@ -2649,16 +2555,81 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/karabakh/3723496">
-<img src="/cache_image/news_images/1242/3723496_1/regnum_picture_15127306782267178_normal-190x128.png" alt="" />
+<a class="list__img-box db fl" href="/am/news/2021/11/10/coronavirus/3723908">
+<img src="/cache_image/news_images/1242/3723908_1/12-190x128.jpg" alt="" />
 </a>
 <div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/politics" style="color: #1567a9;">
- Քաղաքականություն </a>
-<span class="list__date ver-top-box fb fs12">16:00 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/karabakh/3723496" class="list__link db">
-<span class="list__title db fb fs15">Լեռնային Ղարաբաղ. մեկ տարի առանց պատերազմի և դիվանագիտական լաբիրինթոսում. Regnum</span>
-<span class="list__description db fs13 three-dots">Տարասովն անդրադարձել է նաև պատերազմի ավարտի մեկամյակի առթիվ ՌԴ ԱԳՆ հրապարակած մեկնաբանությանը՝ առանձնացնելով որոշակի յուրահատուկ դիվանագիտական դրվագներ:</span>
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Կորոնավիրուս" style="color: #f70857;">
+Կորոնավիրուս </a>
+<span class="list__date ver-top-box fb fs12">11:07 &bull; 10/11</span>
+<a href="/am/news/2021/11/10/coronavirus/3723908" class="list__link db">
+<span class="list__title db fb fs15">Կորոնավիրուսի հետևանքով մահվան դեպքերի հակառեկորդ՝ 80 դեպք է արձանագրվել նախօրեին․ վարակվել է 1675 մարդ, վարակվածների ընդհանուր թիվը 324 039 է, մահվան դեպքերինը՝ 8184</span>
+<span class="list__description db fs13 three-dots">Հայաստանում նոյեմբերի 10-ի դրությամբ հաստատվել է կորոնավիրուսով վարակման 1675 նոր դեպք, վարակվածների ընդհանուր թիվը հասել է 324 039-ի:</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/09/news/3723778">
+<img src="/cache_image/news_images/1242/3723778_1/capture-190x128.png" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">22:14 &bull; 09/11</span>
+<a href="/am/news/2021/11/09/news/3723778" class="list__link db">
+<span class="list__title db fb fs15">Մեծամորի ոստիկանապետը Toyota-ով մխրճվել է Volvo-ի ավտոքարշակի հետնամասի մեջ, նա հոսպիտալացվել է. shamshyan.com</span>
+<span class="list__description db fs13 three-dots">Այսօր՝ նոյեմբերի 9-ին, խոշոր ավտովթար է տեղի ունեցել Արմավիրի մարզում։ Ժամը 21։00-ի սահմաններում Երևան-Արմավիր ավտոճանապարհի 22 կմ հատվածում Toyota Corolla մակնիշի ավտոմեքենան դեպի ․․․</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/10/football/3724140">
+<img src="/cache_image/news_images/1242/3724140_1/henrikh_mkhitaryan_roma-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Sports" style="color: #f50a48;">
+Սպորտ </a>
+<span class="list__date ver-top-box fb fs12">14:21 &bull; 10/11</span>
+<a href="/am/news/2021/11/10/football/3724140" class="list__link db">
+<span class="list__title db fb fs15">Աղբյուր․ Իտալական գրանդը հետևում է Մխիթարյանի շուրջ ստեղծված իրավիճակին</span>
+<span class="list__description db fs13 three-dots">Նշենք, որ այս ամառ Հայաստանի հավաքականի ֆուտբոլիստի նկատմամբ հետաքրքրություն էին ցուցաբերում «Յուվենտուսն» ու «Միլանը»։</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/09/news/3723622">
+<img src="/cache_image/news_images/1242/3723622_1/l_6rjeodrhnj-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">18:44 &bull; 09/11</span>
+<a href="/am/news/2021/11/09/news/3723622" class="list__link db">
+<span class="list__title db fb fs15">Սննդային թունավորման կասկածով «Մուրացան» համալսարանական հիվանդանոց է ընդունվել 8 երեխա</span>
+<span class="list__description db fs13 three-dots">ԵՊԲՀ աշխատակազմի ղեկավար Շուշան Դանիելյանը ֆեյսբուքյան իր էջում գրառում է արել, որում ասվում է․&laquo;&laquo;Մուրացան&raquo; համալսարանական հիվանդանոց են ընդունվել է 8 երեխա,7ից 11 տարեկան հասակի, սննդային թունավորման կ</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/10/Syuniq-opel/3724151">
+<img src="/cache_image/news_images/1242/3724151_1/14efe87a18eec4ce6b05ec8321f4c1fe-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">14:33 &bull; 10/11</span>
+<a href="/am/news/2021/11/10/Syuniq-opel/3724151" class="list__link db">
+<span class="list__title db fb fs15">Ողբերգական ավտովթար Սյունիքում. ՀՀ ՊՆ N զորամասի ծառայողները վթարի են ենթարկվել. կա 1 զոհ, 2 վիրավոր. shamshyan.com</span>
+<span class="list__description db fs13 three-dots">Վարորդը, վիրավորն ու մահացածը ծառայում էին ՀՀ ՊՆ N զորամասում:
+</span>
 </a>
 </div>
 </div>
@@ -2683,6 +2654,23 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/09/kim/3723769">
+<img src="/cache_image/news_images/1242/3723769_1/50253591_0_image_a_3_1636460486710-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Entertainment" style="color: #f2bde7;">
+Ժամանց </a>
+<span class="list__date ver-top-box fb fs12">22:27 &bull; 09/11</span>
+<a href="/am/news/2021/11/09/kim/3723769" class="list__link db">
+ <span class="list__title db fb fs15">Քիմ Քարդաշյանը երաժշտական փառատոնի ժամանակ 8 մարդու զոհվելուց հետո իր աջակցությունն է հայտնել ռեփեր Թրևիս Սքոթին</span>
+<span class="list__description db fs13 three-dots">Ամերիկյան հեռուստաաստղ Քիմ Քարդաշյանն իր աջակցություն է հայտնել ռեփեր Թրևիս Սքոթին այն բանից հետո, երբ Տեխասում երաժշտական փառատոնում նրա ելույթի ժամանակ հրմշտոց էր տեղի ունեցել՝ դառնալով 8 մարդու մահվան պատճառ:
+</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/10/hraparak/3723823">
 <img src="/cache_image/news_images/1242/3723823_1/hraparak-190x128.png" alt="" />
 </a>
@@ -2699,52 +2687,20 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/henrikh-mkhitaryan/3723509">
-<img src="/cache_image/news_images/1242/3723509_1/henrikh_mkhitaryan_as_roma_1569575353_26099-190x128.jpg" alt="" />
+<a class="list__img-box db fl" href="/am/news/2021/11/10/shooting/3724029">
+<img src="/cache_image/news_images/1242/3724029_1/4e45scnchjcy3bibbjd32f7x6y-190x128.jpg" alt="" />
 </a>
 <div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Sports" style="color: #f50a48;">
-Սպորտ </a>
-<span class="list__date ver-top-box fb fs12">16:46 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/henrikh-mkhitaryan/3723509" class="list__link db">
-<span class="list__title db fb fs15">Ռուսական ակումբը հերքել է Մխիթարյանի ծառայություններով հետաքրքրված լինելու լուրերը</span>
-<span class="list__description db fs13 three-dots">«Սա ճիշտ չէ, ակումբը հետաքրքրված չէ այս խաղացողով»,- Sport24-ի թղթակից Արման Նավասարդյանին տված հարցազրույցում ասել է Զելենովը։</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/kim/3723769">
-<img src="/cache_image/news_images/1242/3723769_1/50253591_0_image_a_3_1636460486710-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Entertainment" style="color: #f2bde7;">
-Ժամանց </a>
-<span class="list__date ver-top-box fb fs12">22:27 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/kim/3723769" class="list__link db">
-<span class="list__title db fb fs15">Քիմ Քարդաշյանը երաժշտական փառատոնի ժամանակ 8 մարդու զոհվելուց հետո իր աջակցությունն է հայտնել ռեփեր Թրևիս Սքոթին</span>
-<span class="list__description db fs13 three-dots">Ամերիկյան հեռուստաաստղ Քիմ Քարդաշյանն իր աջակցություն է հայտնել ռեփեր Թրևիս Սքոթին այն բանից հետո, երբ Տեխասում երաժշտական փառատոնում նրա ելույթի ժամանակ հրմշտոց էր տեղի ունեցել՝ դառնալով 8 մարդու մահվան պատճառ:
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">11:55 &bull; 10/11</span>
+<a href="/am/news/2021/11/10/shooting/3724029" class="list__link db">
+<span class="list__title db fb fs15">ԱՄՆ-ում տղամարդը վազել է քաղաքով մեկ և անկանոն կրակել մարդկանց վրա. կան զոհեր</span>
+<span class="list__description db fs13 three-dots">Ամերիկյան Հարավային Դակոտա նահանգի Սքոթլենդ քաղաքում հրաձգության հետևանքով երկու մարդ է զոհվել, ևս երեքը՝ վիրավորվել։ Նոյեմբերի 10-ին, այդ մասին տեղեկացրել է տեղական Dakota News Now հրատարակությունը։
 </span>
 </a>
 </div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/10/football/3724140">
-<img src="/cache_image/news_images/1242/3724140_1/henrikh_mkhitaryan_roma-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Sports" style="color: #f50a48;">
-Սպորտ </a>
-<span class="list__date ver-top-box fb fs12">14:21 &bull; 10/11</span>
-<a href="/am/news/2021/11/10/football/3724140" class="list__link db">
-<span class="list__title db fb fs15">Աղբյուր․ Իտալական գրանդը հետևում է Մխիթարյանի շուրջ ստեղծված իրավիճակին</span>
-<span class="list__description db fs13 three-dots">Նշենք, որ այս ամառ Հայաստանի հավաքականի ֆուտբոլիստի նկատմամբ հետաքրքրություն էին ցուցաբերում «Յուվենտուսն» ու «Միլանը»։</span>
-</a>
-</div>
-</div>
+ </div>
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
@@ -2775,7 +2731,24 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <a href="/am/news/2021/11/09/news/3723740" class="list__link db">
 <span class="list__title db fb fs15">Հայ ժողովրդի թիկունքում գործարքներ անելու մասին խոսք անգամ լինել չի կարող․ ՌԴ դեսպանը՝ տարածաշրջանում տնտեսական և տրանսպորտային կապերի վերականգնման մասին</span>
 <span class="list__description db fs13 three-dots">Հայաստանում Ռուսաստանի Դաշնության արտակարգ և լիազոր դեսպան Սերգեյ Կոպիրկինի գնահատմամբ՝ 2020 թ նոյեմբերի 9ին Լեռնային Ղարաբաղի գոտում ռազմական գործողությունների դադարեցման մասին Ռուսաստանի միջնորդությամբ ընդունված Պուտ</span>
- </a>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/10/Sfss/3724023">
+<img src="/cache_image/news_images/1242/3724023_1/f618b799017346_618b799017389-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+ <span class="list__date ver-top-box fb fs12">11:49 &bull; 10/11</span>
+<a href="/am/news/2021/11/10/Sfss/3724023" class="list__link db">
+<span class="list__title db fb fs15">Սննդային թունավորման կասկածով հիվանդանոց է տեղափոխվել մանկական զարգացման կենտրոնի 10 երեխա</span>
+<span class="list__description db fs13 three-dots">ՀՀ առողջապահության նախարարության «Հիվանդությունների վերահսկման և կանխարգելման ազգային կենտրոն» ՊՈԱԿ-ից ստացված տեղեկատվության համաձայն․․․
+</span>
+</a>
 </div>
 </div>
 </li>
@@ -2900,22 +2873,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/investigative/3723288">
-<img src="/cache_image/news_images/1242/3723288_1/9aa1f1a3d253d7b45a4ee2ad06e84a92-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/law" style="color: #ba0d0d;">
-Իրավունք </a>
-<span class="list__date ver-top-box fb fs12">10:49 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/investigative/3723288" class="list__link db">
-<span class="list__title db fb fs15">ԱՀ Հին Թաղեր գյուղում մարտական հերթապահություն իրականացրած գումարտակի հրամանատարը կալանավորվել է․ ՔԿ</span>
-<span class="list__description db fs13 three-dots">ՀՀ քննչական կոմիտեի զինվորական քննչական գլխավոր վարչության հատկապես կարևոր գործերի քննության վարչությունում քննվող քրեական գործի շրջանակներում իրականացված մեծածավալ...</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/09/gb/3723716">
 <img src="/cache_image/news_images/1242/3723716_1/ssss-190x128.jpg" alt="" />
 </a>
@@ -2932,8 +2889,24 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/09/investigative/3723288">
+<img src="/cache_image/news_images/1242/3723288_1/9aa1f1a3d253d7b45a4ee2ad06e84a92-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/law" style="color: #ba0d0d;">
+Իրավունք </a>
+<span class="list__date ver-top-box fb fs12">10:49 &bull; 09/11</span>
+<a href="/am/news/2021/11/09/investigative/3723288" class="list__link db">
+<span class="list__title db fb fs15">ԱՀ Հին Թաղեր գյուղում մարտական հերթապահություն իրականացրած գումարտակի հրամանատարը կալանավորվել է․ ՔԿ</span>
+<span class="list__description db fs13 three-dots">ՀՀ քննչական կոմիտեի զինվորական քննչական գլխավոր վարչության հատկապես կարևոր գործերի քննության վարչությունում քննվող քրեական գործի շրջանակներում իրականացված մեծածավալ...</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/09/Danibekyan/3723501">
- <img src="/cache_image/news_images/1242/3723501_1/7-190x128.jpg" alt="" />
+<img src="/cache_image/news_images/1242/3723501_1/7-190x128.jpg" alt="" />
 </a>
 <div class="list__inner-box-wrapper">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/politics" style="color: #1567a9;">
@@ -3013,22 +2986,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/hraparak/3723174">
-<img src="/cache_image/news_images/1242/3723174_1/hraparak-190x128.png" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/press-digest" style="color: #792fba;">
-Մամուլի տեսություն </a>
-<span class="list__date ver-top-box fb fs12">08:10 &bull; 09/11</span>
- <a href="/am/news/2021/11/09/hraparak/3723174" class="list__link db">
-<span class="list__title db fb fs15">«Հրապարակ»․ Կադրային փոփոխություններ Կառավարությունում</span>
-<span class="list__description db fs13 three-dots">ԵԱՏՄ հանձնաժողովի ներքին շուկաների, տեղեկատվական-հաղորդակցական տեխնոլոգիաների հարցերի նախարար Գեղամ Վարդանյանն ազատվել է պաշտոնից՝ իր դիմումի համաձայն:</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/09/peacekeepers/3723295">
 <img src="/cache_image/news_images/1242/3723295_1/canvas-190x128.png" alt="" />
 </a>
@@ -3040,6 +2997,22 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <span class="list__title db fb fs15">Ռուս խաղաղապահները БТР-82А զրահափոխադրիչներով հերթապահություն են իրականացրել ԼՂ-ում կողմերի միջև սահմանազատման գծի երկայնքով. ՌԴ ՊՆ
  </span>
 <span class="list__description db fs13 three-dots">Ինչպես հաղորդվում է, հերթապահ խմբերը երկարատև երթ են իրականացրել ժամանակակից БТР-82А զրահափոխադրիչներով և «Ուրալ» մակնիշի մեքենաներով՝ անցնելով նաև գրունտային ճանապարհներով:</span>
+</a>
+ </div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/09/hraparak/3723174">
+<img src="/cache_image/news_images/1242/3723174_1/hraparak-190x128.png" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/press-digest" style="color: #792fba;">
+Մամուլի տեսություն </a>
+<span class="list__date ver-top-box fb fs12">08:10 &bull; 09/11</span>
+<a href="/am/news/2021/11/09/hraparak/3723174" class="list__link db">
+<span class="list__title db fb fs15">«Հրապարակ»․ Կադրային փոփոխություններ Կառավարությունում</span>
+<span class="list__description db fs13 three-dots">ԵԱՏՄ հանձնաժողովի ներքին շուկաների, տեղեկատվական-հաղորդակցական տեխնոլոգիաների հարցերի նախարար Գեղամ Վարդանյանն ազատվել է պաշտոնից՝ իր դիմումի համաձայն:</span>
 </a>
 </div>
 </div>
@@ -3060,7 +3033,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </div>
 </div>
 </li>
- <li class="list__item">
+<li class="list__item">
 <div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/09/karabakh/3723496">
 <img src="/cache_image/news_images/1242/3723496_1/regnum_picture_15127306782267178_normal-190x128.png" alt="" />
@@ -3070,8 +3043,24 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 Քաղաքականություն </a>
 <span class="list__date ver-top-box fb fs12">16:00 &bull; 09/11</span>
 <a href="/am/news/2021/11/09/karabakh/3723496" class="list__link db">
-<span class="list__title db fb fs15">Լեռնային Ղարաբաղ. մեկ տարի առանց պատերազմի և դիվանագիտական լաբիրինթոսում. Regnum</span>
+ <span class="list__title db fb fs15">Լեռնային Ղարաբաղ. մեկ տարի առանց պատերազմի և դիվանագիտական լաբիրինթոսում. Regnum</span>
 <span class="list__description db fs13 three-dots">Տարասովն անդրադարձել է նաև պատերազմի ավարտի մեկամյակի առթիվ ՌԴ ԱԳՆ հրապարակած մեկնաբանությանը՝ առանձնացնելով որոշակի յուրահատուկ դիվանագիտական դրվագներ:</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/09/henrikh-mkhitaryan/3723509">
+<img src="/cache_image/news_images/1242/3723509_1/henrikh_mkhitaryan_as_roma_1569575353_26099-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Sports" style="color: #f50a48;">
+Սպորտ </a>
+<span class="list__date ver-top-box fb fs12">16:46 &bull; 09/11</span>
+<a href="/am/news/2021/11/09/henrikh-mkhitaryan/3723509" class="list__link db">
+<span class="list__title db fb fs15">Ռուսական ակումբը հերքել է Մխիթարյանի ծառայություններով հետաքրքրված լինելու լուրերը</span>
+<span class="list__description db fs13 three-dots">«Սա ճիշտ չէ, ակումբը հետաքրքրված չէ այս խաղացողով»,- Sport24-ի թղթակից Արման Նավասարդյանին տված հարցազրույցում ասել է Զելենովը։</span>
 </a>
 </div>
 </div>
@@ -3090,22 +3079,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <span class="list__description db fs13 three-dots">
 ««Սևան» Ֆուտբոլային ակումբը առաջին անգամ հանդես է գալիս Հայաստանի ուժեղագույնների խմբում, բայց դեռ մրցաշրջանի մեկնարկից առաջ, այնուհետև մրցաշրջանի ընթացքում, ակումբը անընդհատ խոչընդոտների է հանդիպում ՀՖՖ ղեկավարության կողմից։
 </span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/09/henrikh-mkhitaryan/3723509">
-<img src="/cache_image/news_images/1242/3723509_1/henrikh_mkhitaryan_as_roma_1569575353_26099-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Sports" style="color: #f50a48;">
-Սպորտ </a>
-<span class="list__date ver-top-box fb fs12">16:46 &bull; 09/11</span>
-<a href="/am/news/2021/11/09/henrikh-mkhitaryan/3723509" class="list__link db">
- <span class="list__title db fb fs15">Ռուսական ակումբը հերքել է Մխիթարյանի ծառայություններով հետաքրքրված լինելու լուրերը</span>
-<span class="list__description db fs13 three-dots">«Սա ճիշտ չէ, ակումբը հետաքրքրված չէ այս խաղացողով»,- Sport24-ի թղթակից Արման Նավասարդյանին տված հարցազրույցում ասել է Զելենովը։</span>
 </a>
 </div>
 </div>
@@ -3158,7 +3131,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <span class="list__date ver-top-box fb fs12">17:42 &bull; 07/11</span>
 <a href="/am/news/2021/11/07/Mil/3722501" class="list__link db">
 <span class="list__title db fb fs15">Մահացու հրազենային վիրավորում է ստացել ՊՆ ժամկետային զինծառայող</span>
-<span class="list__description db fs13 three-dots">Տարվում է քննություն` դեպքի մանրամասները լիարժեք պարզելու համար:
+ <span class="list__description db fs13 three-dots">Տարվում է քննություն` դեպքի մանրամասները լիարժեք պարզելու համար:
 </span>
 </a>
 </div>
@@ -3187,7 +3160,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <img src="/cache_image/news_images/1242/3723500_1/vaccination_covid_19_1500x1000-190x128.jpg" alt="" />
 </a>
 <div class="list__inner-box-wrapper">
- <a class="list__category fb fs12 ver-top-box tu" href="/am/news/Կորոնավիրուս" style="color: #f70857;">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/Կորոնավիրուս" style="color: #f70857;">
 Կորոնավիրուս </a>
 <span class="list__date ver-top-box fb fs12">16:15 &bull; 09/11</span>
 <a href="/am/news/2021/11/09/covid-19/3723500" class="list__link db">
@@ -3224,7 +3197,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <span class="list__date ver-top-box fb fs12">19:12 &bull; 09/11</span>
 <a href="/am/news/2021/11/09/killing/3723649" class="list__link db">
 <span class="list__title db fb fs15">Ադբեջանի ԱԳՆ-ն մեկնաբանել է Շուշիի մոտ Ջրմուղի աշխատակիցների վրա կրակ բացելու և նրանցից մեկին սպանելու դեպքը</span>
- <span class="list__description db fs13 three-dots">«Ինչպես գիտեք, նման դեպքերում տարածքում անվտանգության ուժեղացված միջոցառումներ են իրականացվում։ Իմանալով դա՝ տարածքին մոտ գտնվող կետում ջրամատակարարման գծի վերանորոգումը ոչ մի տրամաբանության մեջ չի տեղավորվում»,-ասել է Աբդուլաևան:
+<span class="list__description db fs13 three-dots">«Ինչպես գիտեք, նման դեպքերում տարածքում անվտանգության ուժեղացված միջոցառումներ են իրականացվում։ Իմանալով դա՝ տարածքին մոտ գտնվող կետում ջրամատակարարման գծի վերանորոգումը ոչ մի տրամաբանության մեջ չի տեղավորվում»,-ասել է Աբդուլաևան:
 </span>
 </a>
 </div>
@@ -3265,7 +3238,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <li class="list__item">
 <div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/07/fight/3722418">
- <img src="/cache_image/news_images/1241/3722418_1/241983_61879da976bd8_compressed-190x128.jpg" alt="" />
+<img src="/cache_image/news_images/1241/3722418_1/241983_61879da976bd8_compressed-190x128.jpg" alt="" />
 </a>
 <div class="list__inner-box-wrapper">
 <a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
@@ -3312,6 +3285,22 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/04/yerevan-husband/3720783">
+<img src="/cache_image/news_images/1241/3720783_1/82d4e174aa7c0a4dd3c58a48cd22ec43-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">09:31 &bull; 04/11</span>
+<a href="/am/news/2021/11/04/yerevan-husband/3720783" class="list__link db">
+<span class="list__title db fb fs15">Զավեշտալի դեպք՝ Երևանում. ամուսինը զանգահարել է ոստիկանություն, ասել՝ կնոջս սպանել եմ, եկեք, դին տարեք. shamshyan.com</span>
+<span class="list__description db fs13 three-dots">Պարզվել է, որ ամուսինը կեղծ ահազանգ է տվել սպանության մասին։ Երբ ոստիկաններն ու փրկարարները մտել են նրա տուն, նա բազմոցին նստած է եղել, իսկ կինը՝ ննջասենյակում։ </span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/05/kim/3721727">
 <img src="/cache_image/news_images/1241/3721727_1/download_9-190x128.png" alt="" />
 </a>
@@ -3323,22 +3312,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <span class="list__title db fb fs15">Քիմ Քարդաշյանը կիպ կաշվե զգեստով զբոսնել է Նյու Յորքի փողոցներով (լուսանկարներ)</span>
 <span class="list__description db fs13 three-dots">Ամերիկահայ հեռուստաաստղ Քիմ Քարդաշյանին պապարացիները լուսանկարել են Նյու Յորքում, որտեղ 41-ամյա գեղեցկուհին կրել է կիպ կաշվե զգեստ ու երկարաճիտ կոշիկներ, գրում է Daily Mail-ը:
 </span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/04/yerevan-husband/3720783">
-<img src="/cache_image/news_images/1241/3720783_1/82d4e174aa7c0a4dd3c58a48cd22ec43-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
-Իրադարձային </a>
-<span class="list__date ver-top-box fb fs12">09:31 &bull; 04/11</span>
-<a href="/am/news/2021/11/04/yerevan-husband/3720783" class="list__link db">
-<span class="list__title db fb fs15">Զավեշտալի դեպք՝ Երևանում. ամուսինը զանգահարել է ոստիկանություն, ասել՝ կնոջս սպանել եմ, եկեք, դին տարեք. shamshyan.com</span>
-<span class="list__description db fs13 three-dots">Պարզվել է, որ ամուսինը կեղծ ահազանգ է տվել սպանության մասին։ Երբ ոստիկաններն ու փրկարարները մտել են նրա տուն, նա բազմոցին նստած է եղել, իսկ կինը՝ ննջասենյակում։ </span>
 </a>
 </div>
 </div>
@@ -3410,23 +3383,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db fl" href="/am/news/2021/11/03/covid/3720558">
-<img src="/cache_image/news_images/1241/3720558_1/755950571975216-190x128.jpg" alt="" />
-</a>
-<div class="list__inner-box-wrapper">
-<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
-Իրադարձային </a>
-<span class="list__date ver-top-box fb fs12">15:28 &bull; 03/11</span>
-<a href="/am/news/2021/11/03/covid/3720558" class="list__link db">
-<span class="list__title db fb fs15">Վրացի փորձագետն ասել է, որ երկրի բնակչությանը սպառնում է «կորոնա-ցեղասպանություն»</span>
-<span class="list__description db fs13 three-dots">Ինչպես գրում է apsny.ge-ն, նրա խոսքով, Վրաստանում վիրուսով վարակվածության մասշտաբներն իսկապես շատ տագնապալի են, և եթե այս համաճարակային իրավիճակը շարունակվի, վարակի մասշտաբները կգերազանցեն 7000-ը։
-</span>
-</a>
-</div>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
 <a class="list__img-box db fl" href="/am/news/2021/11/09/hraparak/3723167">
 <img src="/cache_image/news_images/1242/3723167_1/hraparak-190x128.png" alt="" />
 </a>
@@ -3437,6 +3393,23 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <a href="/am/news/2021/11/09/hraparak/3723167" class="list__link db">
 <span class="list__title db fb fs15">«Հրապարակ»․ Մուրադովը հատուկ առաքելությամբ գալիս է Հայաստան</span>
 <span class="list__description db fs13 three-dots">Մեկ տարի առաջ ստորագրած կապիտուլյացիոն փաստաթղթի համաձայն, նոյեմբերի 9-ին ռուս խաղաղապահների բրիգադը ստանձնեց Արցախի Հանրապետության պաշտպանությունը։</span>
+</a>
+</div>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<a class="list__img-box db fl" href="/am/news/2021/11/05/denmark/3721530">
+<img src="/cache_image/news_images/1241/3721530_1/1749909886_513_0_2561_2048_1920x0_80_0_0_555bdd00fd7771626db2e298ba04ae49-190x128.jpg" alt="" />
+</a>
+<div class="list__inner-box-wrapper">
+<a class="list__category fb fs12 ver-top-box tu" href="/am/news/event" style="color: #18adce;">
+Իրադարձային </a>
+<span class="list__date ver-top-box fb fs12">12:36 &bull; 05/11</span>
+<a href="/am/news/2021/11/05/denmark/3721530" class="list__link db">
+<span class="list__title db fb fs15">Եթե Ռուսաստանը գրոհի, Վարշավան կընկնի հինգերորդ օրը. Դանիայում գնահատել են Ռուսաստանի կողմից կայծակնային հարվածի հետևանքները
+ </span>
+<span class="list__description db fs13 three-dots">Դանիացի հոդվածագրի կարծիքով՝ Լեհաստանը շարունակում է լինել Եվրոպայի հենարանն արևելքում և Դանիայի հետ ընդհանուր խնդիրներ ունի անվտանգության ոլորտում: </span>
 </a>
 </div>
 </div>
@@ -3456,12 +3429,20 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <ul class="list list--odd show-link-visited">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db" href="/am/news/2021/11/10/statedep/3724205">
-<img src="/cache_image/news_images/1242/3724205_1/gettyimages_694223488-542x366.jpg" alt="" />
+<a class="list__img-box db" href="/am/news/2021/11/10/erdogan/3724221">
+<img src="/cache_image/news_images/1242/3724221_1/erdogan_1-542x366.jpg" alt="" />
 </a>
+<span class="list__date db fb fs12">15:47 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/erdogan/3724221" class="list__link db fb">
+<span class="list__title db fs18">Թուրքիան նպատակ ունի դառնալ աշխարհի առաջատար տերություններից մեկը. Էրդողան</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <span class="list__date db fb fs12">15:20 &bull; 10.11.21</span>
 <a href="/am/news/2021/11/10/statedep/3724205" class="list__link db fb">
-<span class="list__title db fs18">ԱՄՆ Պետդեպը Վրաստանի իշխանություններին կոչ է արել Սաակաշվիլիի հետ վարվել «արդար և արժանապատիվ»</span>
+<span class="list__title db">ԱՄՆ Պետդեպը Վրաստանի իշխանություններին կոչ է արել Սաակաշվիլիի հետ վարվել «արդար և արժանապատիվ»</span>
 </a>
 </div>
 </li>
@@ -3481,28 +3462,28 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </div>
 </li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">13:19 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/no-corridor/3724073" class="list__link db fb">
-<span class="list__title db">Ինչու Թուրքիան և Ադրբեջանը միջանցք չեն ստանա Հայաստանի միջով. The National Interest</span>
-</a>
-</div>
-</li>
 </ul>
 </div><div class="inner-content__section-item ver-top-box">
 <h2 class="inner-content__title inner-content__title--inline fb fs22 pr tu">
-<a class="list__link db fb" href="/am/news/law"><span class="inner-content__icon-box " style="background-color: #ba0d0d;"></span>Իրավունք</a>
+ <a class="list__link db fb" href="/am/news/law"><span class="inner-content__icon-box " style="background-color: #ba0d0d;"></span>Իրավունք</a>
 </h2>
 <ul class="list list--odd show-link-visited">
 <li class="list__item">
 <div class="list__inner-box db pr">
- <a class="list__img-box db" href="/am/news/2021/11/10/Khachik/3724189">
-<img src="/cache_image/news_images/1242/3724189_1/255657423_962370797695459_4885745693949324062_n-542x366.jpg" alt="" />
+<a class="list__img-box db" href="/am/news/2021/11/10/Tonoyan/3724236">
+<img src="/cache_image/news_images/1242/3724236_1/10-542x366.jpg" alt="" />
 </a>
+<span class="list__date db fb fs12">16:10 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/Tonoyan/3724236" class="list__link db fb">
+<span class="list__title db fs18">Դավիթ Տոնոյանի պաշտպանների ներկայացրած բոլոր միջնորդությունները՝ կապված փորձաքննության հետ, առանց բավարար հիմնավորման մերժվում են․ փաստաբանական խմբի հայտարարությունը</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <span class="list__date db fb fs12">15:08 &bull; 10.11.21</span>
 <a href="/am/news/2021/11/10/Khachik/3724189" class="list__link db fb">
-<span class="list__title db fs18">Խաչիկ գյուղի բնակչին հակառակորդի կողմից սպանության փորձի դեպքի առթիվ քրեական գործ է հարուցվել</span>
+<span class="list__title db">Խաչիկ գյուղի բնակչին հակառակորդի կողմից սպանության փորձի դեպքի առթիվ քրեական գործ է հարուցվել</span>
 </a>
 </div>
 </li>
@@ -3522,28 +3503,36 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </div>
 </li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">12:08 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/investigative/3724042" class="list__link db fb">
-<span class="list__title db">Սպանության փորձ Սլովակիայի քաղաքացու նկատմամբ. գործը դատարանում է․ ՔԿ</span>
-</a>
-</div>
-</li>
 </ul>
 </div><div class="inner-content__section-item ver-top-box">
-<h2 class="inner-content__title inner-content__title--inline fb fs22 pr tu">
+ <h2 class="inner-content__title inner-content__title--inline fb fs22 pr tu">
 <a class="list__link db fb" href="/am/news/business"><span class="inner-content__icon-box " style="background-color: #52a979;"></span>Տնտեսություն</a>
 </h2>
 <ul class="list list--odd show-link-visited">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db" href="/am/news/2021/11/10/sfss/3724036">
-<img src="/cache_image/news_images/1242/3724036_1/255614285_4995130950516099_6475848574932357677_n-542x366.jpg" alt="" />
+<a class="list__img-box db" href="/am/news/2021/11/10/gas/3724295">
+<img src="/cache_image/news_images/1242/3724295_1/natural_gas_surplus_is_breaking_us_oil_industries-542x366.jpg" alt="" />
 </a>
+<span class="list__date db fb fs12">17:03 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/gas/3724295" class="list__link db fb">
+<span class="list__title db fs18">Եվրոպայում գազի գինն իջել է 1000 խորանարդ մետրի համար 800 դոլարից ցած</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<span class="list__date db fb fs12">15:50 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/Conversebank/3724228" class="list__link db fb">
+<span class="list__title db">Կոնվերս Բանկի ակցիայի հաղթողները ոսկու ձուլակտորներ են ստացել</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <span class="list__date db fb fs12">12:02 &bull; 10.11.21</span>
 <a href="/am/news/2021/11/10/sfss/3724036" class="list__link db fb">
-<span class="list__title db fs18">ՍԱՏՄ տեսուչները covid19-ի դեմ ձեռնարկվող հակահամաճարակային միջոցառումների նկատմամբ վերահսկողություն են իրականացրել Աջափնյակի իրացման ցանցում և հանրային սննդի օբյեկտներում</span>
+<span class="list__title db">ՍԱՏՄ տեսուչները covid19-ի դեմ ձեռնարկվող հակահամաճարակային միջոցառումների նկատմամբ վերահսկողություն են իրականացրել Աջափնյակի իրացման ցանցում և հանրային սննդի օբյեկտներում</span>
 </a>
 </div>
 </li>
@@ -3552,22 +3541,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <span class="list__date db fb fs12">11:25 &bull; 10.11.21</span>
 <a href="/am/news/2021/11/10/Parliament/3723990" class="list__link db fb">
 <span class="list__title db">ԱԺ հանձնաժողովում «Գովազդի մասին» օրենքի քննարկումը երկու ամսով հետաձգվեց</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">11:05 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/musk/3723956" class="list__link db fb">
-<span class="list__title db">Իլոն Մասկը 2 օրում ռեկորդային 50 մլրդ դոլար է կորցրել. Bloomberg</span>
-</a>
- </div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">10:22 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/indexes/3723892" class="list__link db fb">
-<span class="list__title db">Եվրոպական ինդեքսները նվազել են</span>
 </a>
 </div>
 </li>
@@ -3581,12 +3554,20 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <ul class="list list--odd show-link-visited">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db" href="/am/news/2021/11/10/football/3724140">
-<img src="/cache_image/news_images/1242/3724140_1/henrikh_mkhitaryan_roma-542x366.jpg" alt="" />
+<a class="list__img-box db" href="/am/news/2021/11/10/football/3724269">
+<img src="/cache_image/news_images/1242/3724269_1/255575640_10166025759910247_7806669457912408787_n-542x366.jpg" alt="" />
 </a>
+<span class="list__date db fb fs12">16:37 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/football/3724269" class="list__link db fb">
+<span class="list__title db fs18">Հայաստանի Մ-19 հավաքականը գերկամային հաղթանակ տարավ Շոտլանդիայի նկատմամբ</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <span class="list__date db fb fs12">14:21 &bull; 10.11.21</span>
 <a href="/am/news/2021/11/10/football/3724140" class="list__link db fb">
-<span class="list__title db fs18">Աղբյուր․ Իտալական գրանդը հետևում է Մխիթարյանի շուրջ ստեղծված իրավիճակին</span>
+<span class="list__title db">Աղբյուր․ Իտալական գրանդը հետևում է Մխիթարյանի շուրջ ստեղծված իրավիճակին</span>
 </a>
 </div>
 </li>
@@ -3603,15 +3584,6 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <span class="list__date db fb fs12">11:15 &bull; 10.11.21</span>
 <a href="/am/news/2021/11/10/Armenia-football/3723966" class="list__link db fb">
 <span class="list__title db">Մխիթարյանը, Ադամյանը և Չալըշըրը միացել են հավաքականին․ մեր ընտրանին անցկացրել է մարզական հավաքի երկրորդ մարզումը (տեսանյութ)</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
- <span class="list__date db fb fs12">22:38 &bull; 09.11.21</span>
-<a href="/am/news/2021/11/09/news/3723791" class="list__link db fb">
-<span class="list__title db">Չավին կարգապահական խիստ կանոններ կմտցնի Բարսելոնայում
- </span>
 </a>
 </div>
 </li>
@@ -3664,36 +3636,36 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <ul class="list list--odd show-link-visited">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db" href="/am/news/2021/11/10/ambassador/3724174">
-<img src="/cache_image/news_images/1242/3724174_1/se-542x366.jpg" alt="" />
+<a class="list__img-box db" href="/am/news/2021/11/10/church/3724288">
+<img src="/cache_image/news_images/1242/3724288_1/download_3-542x366.png" alt="" />
 </a>
-<span class="list__date db fb fs12">14:44 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/ambassador/3724174" class="list__link db fb">
-<span class="list__title db fs18">«Չե՞ս ամաչում». պաղեստինամետ ուսանողները փորձել են գրոհել շենքը, որում եղել է Մեծ Բրիտանիայում Իսրայելի դեսպանը (լուսանկարներ, տեսանյութեր)</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">14:42 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/live/3724165" class="list__link db fb">
-<span class="list__title db">ԱԺ առողջապահության հարցերի մշտական հանձնաժողովի հերթական նիստը (տեսանյութ)</span>
+<span class="list__date db fb fs12">17:00 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/church/3724288" class="list__link db fb">
+<span class="list__title db fs18">Լեռնային Ղարաբաղում բացվել է առաջին ուղղափառ եկեղեցին</span>
 </a>
 </div>
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<span class="list__date db fb fs12">14:33 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/Syuniq-opel/3724151" class="list__link db fb">
-<span class="list__title db">Ողբերգական ավտովթար Սյունիքում. ՀՀ ՊՆ N զորամասի ծառայողները վթարի են ենթարկվել. կա 1 զոհ, 2 վիրավոր. shamshyan.com</span>
+<span class="list__date db fb fs12">16:20 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/sweden/3724263" class="list__link db fb">
+<span class="list__title db">Շվեդիայի վարչապետ Ստեֆան Լյովենը պաշտոնաթող կլինի</span>
 </a>
 </div>
 </li>
 <li class="list__item">
 <div class="list__inner-box db pr">
-<span class="list__date db fb fs12">14:31 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/shoushi-artsakh/3724148" class="list__link db fb">
-<span class="list__title db">Ադրբեջանը ցանկանում է Շուշին ներառել ՅՈՒՆԵՍԿՕ-ի Ստեղծարար քաղաքների ցանցում</span>
+<span class="list__date db fb fs12">16:15 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/drills/3724255" class="list__link db fb">
+<span class="list__title db">«Ռազմական գործողությունների ենթադրյալ թատերաբեմի ուսումնասիրում». ՌԴ ՊՆ-ն արձագանքել է Սև ծովում ԱՄՆ-ի զորավարժություններին</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<span class="list__date db fb fs12">16:12 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/Woman/3724248" class="list__link db fb">
+<span class="list__title db">Երևանում՝ փողոցում տղամարդը ծեծում է մի կնոջ. քաղաքացիները փորձել են օգնել կնոջը և նկարահանել են բռնության դեպքը (տեսանյութ)</span>
 </a>
 </div>
 </li>
@@ -3724,7 +3696,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 </a>
 </div>
 </li>
- <li class="list__item">
+<li class="list__item">
 <div class="list__inner-box db pr">
 <span class="list__date db fb fs12">12:33 &bull; 06.11.21</span>
 <a href="/am/news/2021/11/06/Black-panther/3722017" class="list__link db fb">
@@ -3769,13 +3741,13 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <li class="list__item">
 <div class="list__inner-box db pr">
 <span class="list__date db fb fs12">21:27 &bull; 09.11.21</span>
- <a href="/am/news/2021/11/09/nasa/3723733" class="list__link db fb">
+<a href="/am/news/2021/11/09/nasa/3723733" class="list__link db fb">
 <span class="list__title db">128,8 վայրկյան. ՆԱՍԱ-ի Ingenuity ուղղաթիռը 15-րդ մարսյան թռիչքն է իրականացրել</span>
 </a>
 </div>
 </li>
 <li class="list__item">
-<div class="list__inner-box db pr">
+ <div class="list__inner-box db pr">
 <span class="list__date db fb fs12">20:40 &bull; 09.11.21</span>
 <a href="/am/news/2021/11/09/news/3723692" class="list__link db fb">
 <span class="list__title db">Ինչպես է Facebook–ն ազդում մեզ վրա և ինչ անել. Նարեկ Նիկողոսյանի հարցազրույցը՝ միջազգային առաջնակարգ փորձագետի հետ</span>
@@ -3790,36 +3762,36 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <ul class="list list--odd show-link-visited">
 <li class="list__item">
 <div class="list__inner-box db pr">
-<a class="list__img-box db" href="/am/news/2021/11/10/man/3724122">
-<img src="/cache_image/news_images/1242/3724122_1/ruddage-542x366.jpeg" alt="" />
+<a class="list__img-box db" href="/am/news/2021/11/10/car/3724280">
+<img src="/cache_image/news_images/1242/3724280_1/f618bbfb9a07d8_618bbfb9a082e-542x366.jpg" alt="" />
 </a>
+<span class="list__date db fb fs12">16:48 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/car/3724280" class="list__link db fb">
+<span class="list__title db fs18">Մեքսիկայում հանգուցյալին հուղարկավորել են իր սիրած մեքենայի հետ (տեսանյութ)</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<span class="list__date db fb fs12">16:38 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/bag/3724275" class="list__link db fb">
+<span class="list__title db">1 մլն դոլար. Աբու Դաբիում վաճառվել է 18-կարատանոց ոսկուց պատրաստված Hermes Birkin պայուսակը</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
+<span class="list__date db fb fs12">16:07 &bull; 10.11.21</span>
+<a href="/am/news/2021/11/10/smith/3724233" class="list__link db fb">
+<span class="list__title db">Ուիլ Սմիթը մագլցել է աշխարհում ամենաբարձր շինությունը՝ Դուբայի հանրահայտ Բուրջ Խալիֆան (լուսանկարներ)</span>
+</a>
+</div>
+</li>
+<li class="list__item">
+<div class="list__inner-box db pr">
 <span class="list__date db fb fs12">14:09 &bull; 10.11.21</span>
-<a href="/am/news/2021/11/10/man/3724122" class="list__link db fb">
-<span class="list__title db fs18">People ամսագիրը հայտնել է մոլորակի ամենասեքսուալ տղամարդու անունը (լուսանկարներ)</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">22:27 &bull; 09.11.21</span>
-<a href="/am/news/2021/11/09/kim/3723769" class="list__link db fb">
-<span class="list__title db">Քիմ Քարդաշյանը երաժշտական փառատոնի ժամանակ 8 մարդու զոհվելուց հետո իր աջակցությունն է հայտնել ռեփեր Թրևիս Սքոթին</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">22:31 &bull; 08.11.21</span>
-<a href="/am/news/2021/11/08/nigerian/3723119" class="list__link db fb">
-<span class="list__title db">26-ամյա նիգերիացին իրեն վաճառքի է հանել 49 000 դոլարով</span>
-</a>
-</div>
-</li>
-<li class="list__item">
-<div class="list__inner-box db pr">
-<span class="list__date db fb fs12">18:40 &bull; 08.11.21</span>
-<a href="/am/news/2021/11/08/norilsk/3722890" class="list__link db fb">
-<span class="list__title db">Նորիլսկում կինը հասարակական ավտոբուս է նստել հյուսիսային եղջերուի հետ (տեսանյութ)</span>
+ <a href="/am/news/2021/11/10/man/3724122" class="list__link db fb">
+<span class="list__title db">People ամսագիրը հայտնել է մոլորակի ամենասեքսուալ տղամարդու անունը (լուսանկարներ)</span>
 </a>
 </div>
 </li>
@@ -3845,7 +3817,7 @@ Genesis Armenia-ի գրասենյակում տեղի է ունենում քնն�
 <a class="bottom-box__helix db sprite" href="https://helix.am" target="_blank">Helix</a>
 </div>
 <div class="bottom-box__center fl">
-<p class="bottom-box__text fs14"><b>«ԹԵՐԹ Էյ Էմ» ՍՊԸ</b><br />Հասցե` Հայաստան,<br />0025 Երևան, <br /> Չարենցի 1, <br />Հեռ. +374 60 528 528 <br />Էլ. փոստ` <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9afffef3eef5e8daeeffe8eeb4fbf7">[email&#160;protected]</a><br />Գովազդի համար զանգահարել<br /> 095 24 22 44</p>
+<p class="bottom-box__text fs14"><b>«ԹԵՐԹ Էյ Էմ» ՍՊԸ</b><br />Հասցե` Հայաստան,<br />0025 Երևան, <br /> Չարենցի 1, <br />Հեռ. +374 60 528 528 <br />Էլ. փոստ` <a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="9efbfaf7eaf1ecdeeafbeceab0fff3">[email&#160;protected]</a><br />Գովազդի համար զանգահարել<br /> 095 24 22 44</p>
 <p class="bottom-box__text fs14" style="margin-top: 25px"><b>Կայքում հրապարակված նյութերի օգտագործման պայմանները՝ <a href="/TermsAndConditions.pdf">այստեղ։</a></b></p>
 </div>
 <div class="bottom-box__right fr">
